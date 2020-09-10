@@ -3,6 +3,8 @@ Common Core Math Standards in many formats
 
 # Usage
 
+
+
 ## Data Dictionary
 
 > **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
@@ -12,12 +14,15 @@ Common Core Math Standards in many formats
 |  ***type*** | `integer` | `string` | `string` | `string` | `string` |
 |  ***description*** | unique number for each of the 509 math standards | CCSS.MATH.CONTENT.* | Grade Level and Topic | Skills or topics based on KEY | The actual standard, describing the item to be learned. |
 
+> **NOTE:** The words `KEY` and `DETAILS` are used for clarity. `KEY` always refers to the standard notation with grade level, domains, and standards. `DETIALS` always refers to the standard in the form of words, phrases, or sentences.
+
 ## Text files
   + `cccssmath.tsv` - entire file is searchable on GitHub
   + `cccssmath-withid.tsv` - adds `ID` column to `cccssmath.tsv`
     + Useful for cross-referncing between standards
     + Useful for differentiating between very similar standards
     + Useful for keeping track of all 509 math standards (like on flashcards)
+    + Easier to use numbers than "K-12 sorting" the keys
 
 ## Workbooks
   + `cccssmath.xlsx` - Microsoft Excel spreadsheet
