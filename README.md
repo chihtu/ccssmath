@@ -36,7 +36,7 @@
   + For brevity, each standard has been shortened by removing extra examples.
   + For clarity and better machine readability, some symbols have been removed.
 
-# Stats
+# Common Core Math Standards Statistics
 
 ## Standards vs. Substandards
 
