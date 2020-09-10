@@ -1,4 +1,4 @@
-# `ccssmath`: Common Core Math Standards in many formats
+# Common Core Math Standards in many formats
 
 # Usage
 
