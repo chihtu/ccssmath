@@ -15,7 +15,9 @@ Common Core Math Standards in many formats
 ## Text files
   + `cccssmath.tsv` - entire file is searchable on GitHub
   + `cccssmath-withid.tsv` - adds `ID` column to `cccssmath.tsv`
-    + useful for cross-referncing between standards
+    + Useful for cross-referncing between standards
+    + Useful for differentiating between very similar standards
+    + Useful for keeping track of all 509 math standards (like on flashcards)
 
 ## Workbooks
   + `cccssmath.xlsx` - Microsoft Excel spreadsheet
