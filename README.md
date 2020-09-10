@@ -1,7 +1,6 @@
 # Common Core Math Standards in many formats
 
-# Usage
-
+  + Text
 
 
 ## Data Dictionary
@@ -15,6 +14,8 @@
 
 > **NOTE:** The words `KEY` and `DETAILS` are used for clarity. `KEY` always refers to the standard notation with grade level, domains, and standards. `DETIALS` always refers to the standard in the form of words, phrases, or sentences.
 
+# Formats
+
 ## Text files
   + `cccssmath.tsv` - entire file is searchable on GitHub
   + `cccssmath-withid.tsv` - adds `ID` column to `cccssmath.tsv`
@@ -27,7 +28,7 @@
   + `cccssmath.xlsx` - Microsoft Excel spreadsheet
   + `cccssmath.ods` - OpenDocument spreasheet
     + Use with [LibreOffice](https://www.libreoffice.org)
-    + Use with [Apache OpenOffice](https://www.openoffice.org)
+    + Use with [Apache OpenOffice](https://www.openoffice.org)  
 
 ## Source Material
   + Commmon Core Math Standards are sourced from the official web site:
