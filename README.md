@@ -10,7 +10,7 @@
 |  **-** | **ID** | **KEY** | **CATEGORY** | **DOMAIN** | **DETAILS** |
 | ---: | :---: | :---: | :---: | :---: | :---: |
 |  ***type*** | `integer` | `string` | `string` | `string` | `string` |
-|  ***description*** | unique number for each of the 509 math standards | CCSS.MATH.CONTENT.* | Grade Level and Topic | Skills or topics based on KEY | The actual standard, describing the item to be learned. |
+|  ***description*** | unique number for each of the 509 math standards | CCSS.MATH .CONTENT.* | Grade Level and Topic | Skills or topics based on KEY | The actual standard, describing the item to be learned. |
 
 > **NOTE:** The words `KEY` and `DETAILS` are used for clarity. `KEY` always refers to the standard notation with grade level, domains, and standards. `DETIALS` always refers to the standard in the form of words, phrases, or sentences.
 
