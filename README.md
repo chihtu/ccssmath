@@ -29,6 +29,14 @@
     + Use with [LibreOffice](https://www.libreoffice.org)
     + Use with [Apache OpenOffice](https://www.openoffice.org)
 
+## Source Material
+  + Commmon Core Math Standards are sourced from the official web site:
+    + http://www.corestandards.org/Math/
+  + For accuracy, the source material is extracted using the CCSS Math Standards Extraction Tool (SET).
+  + CCSS Math SET also annotates the each standard with Category and Domain data from the source material.
+  + For brevity, each standard has been shortened by removing extra examples.
+  + For clarity and better machine readability, some symbols have been removed.
+
 # License
 
 Common Core Math Standards are provided under Public License.
