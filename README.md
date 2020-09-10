@@ -10,7 +10,7 @@
 |  ***model type*** | `integer` | `string` | `Enum` | `Enum` | `Enum` | `string` |
 |  ***description*** | unique number for each of the 509 math standards | CCSS.MATH .CONTENT.* | standard or substandard | Grade Level and Topic | Skills or topics based on KEY | The actual standard, describing the item to be learned. |
 
-> **NOTE:** The words `KEY` and `DETAILS` are used for clarity. `KEY` always refers to the standard notation with grade level, domains, and standards. `DETIALS` always refers to the standard in the form of words, phrases, or sentences.
+> **NOTE:** The words `KEY` and `DETAILS` are used for clarity. `KEY` always refers to the standard notation with grade level, domains, and standards information. `DETAILS` always refers to the standard in the form of words, phrases, or sentences.
 
 # Formats
 
