@@ -31,7 +31,7 @@
 ## Source Material
   + Commmon Core Math Standards are sourced from the official web site:
     + http://www.corestandards.org/Math/
-  + For accuracy, the source material is extracted using the CCSS Math Standards Extraction Tool (SET).
+  + For accuracy, the source material is extracted using the [CCSS Math Standards Extraction Tool (SET)][set].
   + CCSS Math SET also annotates the each standard with Category and Domain data from the source material.
   + For brevity, each standard has been shortened by removing extra examples.
   + For clarity and better machine readability, some symbols have been removed.
@@ -114,4 +114,5 @@ Any examples or applications beyond the scope of the license are provide under t
   + https://opensource.org/licenses/MIT
 
 
+[set]: https://chrome.google.com/webstore/detail/ccss-math-set/mfhkaogejcjjoillacimdhfpjpaoekbf
 [mtm]: https://gsuite.google.com/marketplace/app/markdowntablemaker/46507245362
