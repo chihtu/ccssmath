@@ -1,8 +1,5 @@
 # Common Core Math Standards in many formats
 
-  + Text
-
-
 ## Data Dictionary
 
 > **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
