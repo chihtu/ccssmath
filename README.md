@@ -35,6 +35,17 @@
   + For brevity, each standard has been shortened by removing extra examples.
   + For clarity and better machine readability, some symbols have been removed.
 
+# Stats
+
+## Standards vs. Substandards
+
+|  TYPE | COUNT |
+| --- | :---: |
+|  standard | 385 |
+|  substandard | 124 |
+|   |  |
+|  **TOTAL** | **509** |
+
 # License
 
 Common Core Math Standards are provided under Public License.
