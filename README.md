@@ -46,6 +46,46 @@
 |   |  |
 |  **TOTAL** | **509** |
 
+## Standards Grouped by Domain
+
+|  DOMAIN | COUNT |
+| --- | :---: |
+|  Counting and Cardinality | 10 |
+|  Geometry | 43 |
+|  Measurement and Data | 50 |
+|  Number and Operations in Base Ten | 39 |
+|  Operations and Algebraic Thinking | 34 |
+|  Number and Operations with Fractions | 37 |
+|  Expressions and Equations | 31 |
+|  The Number System | 28 |
+|  Ratios and Proportional Relationships | 14 |
+|  Statistics and Probability | 26 |
+|  Functions | 5 |
+|  The Complex Number System | 9 |
+|  Quantities | 3 |
+|  The Real Number System | 3 |
+|  Vector and Matrix Quantities | 17 |
+|  Arithmetic with Polynomials and Rational Expressions | 7 |
+|  Creating Equations | 4 |
+|  Reasoning with Equations and Inequalities | 14 |
+|  Seeing Structure in Expressions | 9 |
+|  Building Functions | 12 |
+|  Interpreting Functions | 16 |
+|  Linear, Quadratic, and Exponential Models | 8 |
+|  Trigonometric Functions | 9 |
+|  Circles | 5 |
+|  Congruence | 13 |
+|  Geometric Measurement and Dimension | 4 |
+|  Expressing Geometric Properties with Equations | 7 |
+|  Modeling with Geometry | 3 |
+|  Similarity, Right Triangles, and Trigonometry | 13 |
+|  Conditional Probability and the Rules of Probability | 9 |
+|  Making Inferences and Justifying Conclusions | 6 |
+|  Interpreting Categorical and Quantitative Data | 12 |
+|  Using Probability to Make Decisions | 9 |
+|   |  |
+|  **TOTAL** | **509** |
+
 # License
 
 Common Core Math Standards are provided under Public License.
