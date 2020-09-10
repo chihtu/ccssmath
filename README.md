@@ -40,7 +40,7 @@
 ## Standards vs. Substandards
 
 |  TYPE | COUNT |
-| --- | :---: |
+| :--- | :---: |
 |  standard | 385 |
 |  substandard | 124 |
 |   |  |
@@ -49,7 +49,7 @@
 ## Standards Grouped by Domain
 
 |  DOMAIN | COUNT |
-| --- | :---: |
+| :--- | :---: |
 |  Counting and Cardinality | 10 |
 |  Geometry | 43 |
 |  Measurement and Data | 50 |
