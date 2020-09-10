@@ -4,10 +4,11 @@
 
 > **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
 
-|  **-** | **ID** | **KEY** | **CATEGORY** | **DOMAIN** | **DETAILS** |
-| ---: | :---: | :---: | :---: | :---: | :---: |
-|  ***type*** | `integer` | `string` | `string` | `string` | `string` |
-|  ***description*** | unique number for each of the 509 math standards | CCSS.MATH .CONTENT.* | Grade Level and Topic | Skills or topics based on KEY | The actual standard, describing the item to be learned. |
+|  **-** | **ID** | **KEY** | **TYPE** | **CATEGORY** | **DOMAIN** | **DETAILS** |
+| ---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  ***datatype*** | `integer` | `string` | `string` | `string` | `string` | `string` |
+|  ***model type*** | `integer` | `string` | `Enum` | `Enum` | `Enum` | `string` |
+|  ***description*** | unique number for each of the 509 math standards | CCSS.MATH .CONTENT.* | standard or substandard | Grade Level and Topic | Skills or topics based on KEY | The actual standard, describing the item to be learned. |
 
 > **NOTE:** The words `KEY` and `DETAILS` are used for clarity. `KEY` always refers to the standard notation with grade level, domains, and standards. `DETIALS` always refers to the standard in the form of words, phrases, or sentences.
 
@@ -46,7 +47,24 @@
 |   |  |
 |  **TOTAL** | **509** |
 
-## Standards Grouped by Domain
+## Standards Grade Level
+
+|  GRADE LEVEL | COUNT |
+| :--- | :---: |
+|  Kindergarten | 25 |
+|  Grade 1 | 24 |
+|  Grade 2 | 28 |
+|  Grade 3 | 37 |
+|  Grade 4 | 37 |
+|  Grade 5 | 40 |
+|  Grade 6 | 47 |
+|  Grade 7 | 43 |
+|  Grade 8 | 36 |
+|  High School | 192 |
+|   |  |
+|  **TOTAL** | **509** |
+
+## Standards Domain Counts
 
 |  DOMAIN | COUNT |
 | :--- | :---: |
