@@ -1,6 +1,32 @@
-# ccssmath
+# `ccssmath`
 Common Core Math Standards in many formats
 
+# Usage
+
+| - | **ID** | **KEY** | **CATEGORY** | **DOMAIN** | **DETAILS** |
+| --- | --- | --- | --- | --- | --- |
+|  ***type*** | `integer` | `string` | `string` | `string` | `string` |
+|  ***description*** | Unique positive integer for each of the 509 math standards. | CCSS.MATH.CONTENT.* | Grade Level and Topic | Skills or topics based on KEY | The actual standard, describing the item to be learned. |
+
+## Data Dictionary
+
+|   |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  **-** | **ID** | **KEY** | **CATEGORY** | **DOMAIN** | **DETAILS** |
+|  ***type*** | `integer` | `string` | `string` | `string` | `string` |
+|  ***description*** | unique number for each of the 509 math standards | CCSS.MATH.CONTENT.* | Grade Level and Topic | Skills or topics based on KEY | The actual standard, describing the item to be learned. |
+
+
+## Text files
+  + `cccssmath.tsv` - entire file is searchable on GitHub
+  + `cccssmath-withid.tsv` - adds `ID` column to `cccssmath.tsv`
+    + useful for cross-referncing other standards
+
+## Workbooks
+  + `cccssmath.xlsx` - Microsoft Excel spreadsheet workbook
+  + `cccssmath.ods` - OpenDocument spreasheet workbook
+    + Use with [LibreOffice](https://www.libreoffice.org)
+    + Use with [Apache OpenOffice](https://www.openoffice.org)
 
 # License
 
