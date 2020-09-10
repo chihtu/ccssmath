@@ -5,7 +5,7 @@ Common Core Math Standards in many formats
 
 ## Data Dictionary
 
-> **NOTE:** Markdown table made with [MarkdownTableMaker][mtm]
+> **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
 
 |  **-** | **ID** | **KEY** | **CATEGORY** | **DOMAIN** | **DETAILS** |
 | ---: | :---: | :---: | :---: | :---: | :---: |
