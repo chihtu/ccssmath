@@ -3,19 +3,14 @@ Common Core Math Standards in many formats
 
 # Usage
 
-| - | **ID** | **KEY** | **CATEGORY** | **DOMAIN** | **DETAILS** |
-| --- | --- | --- | --- | --- | --- |
-|  ***type*** | `integer` | `string` | `string` | `string` | `string` |
-|  ***description*** | Unique positive integer for each of the 509 math standards. | CCSS.MATH.CONTENT.* | Grade Level and Topic | Skills or topics based on KEY | The actual standard, describing the item to be learned. |
-
 ## Data Dictionary
 
-|   |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
+> **NOTE:** Markdown table made with [MarkdownTableMaker][mtm]
+
 |  **-** | **ID** | **KEY** | **CATEGORY** | **DOMAIN** | **DETAILS** |
+| ---: | :---: | :---: | :---: | :---: | :---: |
 |  ***type*** | `integer` | `string` | `string` | `string` | `string` |
 |  ***description*** | unique number for each of the 509 math standards | CCSS.MATH.CONTENT.* | Grade Level and Topic | Skills or topics based on KEY | The actual standard, describing the item to be learned. |
-
 
 ## Text files
   + `cccssmath.tsv` - entire file is searchable on GitHub
@@ -37,3 +32,5 @@ Any examples or applications beyond the scope of the license are provide under t
   + https://tldrlegal.com/license/mit-license
   + https://opensource.org/licenses/MIT
 
+
+[mtm]: https://gsuite.google.com/marketplace/app/markdowntablemaker/46507245362
