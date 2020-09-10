@@ -40,6 +40,8 @@
 
 ## Standards vs. Substandards
 
+> **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
+
 |  TYPE | COUNT |
 | :--- | :---: |
 |  standard | 385 |
@@ -48,6 +50,8 @@
 |  **TOTAL** | **509** |
 
 ## Standards Grade Level
+
+> **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
 
 |  GRADE LEVEL | COUNT |
 | :--- | :---: |
@@ -65,6 +69,8 @@
 |  **TOTAL** | **509** |
 
 ## Standards Domain Counts
+
+> **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
 
 |  DOMAIN | COUNT |
 | :--- | :---: |
