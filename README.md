@@ -18,8 +18,8 @@ Common Core Math Standards in many formats
     + useful for cross-referncing other standards
 
 ## Workbooks
-  + `cccssmath.xlsx` - Microsoft Excel spreadsheet workbook
-  + `cccssmath.ods` - OpenDocument spreasheet workbook
+  + `cccssmath.xlsx` - Microsoft Excel spreadsheet
+  + `cccssmath.ods` - OpenDocument spreasheet
     + Use with [LibreOffice](https://www.libreoffice.org)
     + Use with [Apache OpenOffice](https://www.openoffice.org)
 
