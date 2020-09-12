@@ -4,11 +4,12 @@
 
 > **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
 
-|  **-** | **ID** | **KEY** | **TYPE** | **CATEGORY** | **DOMAIN** | **DETAILS** |
-| ---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|  ***datatype*** | `integer` | `string` | `string` | `string` | `string` | `string` |
-|  ***model type*** | `Integer` | `String` | `Enum` | `Enum` | `Enum` | `String` |
-|  ***description*** | unique number for each of the 509 math standards | CCSS.MATH .CONTENT.* | standard or substandard | Grade Level and Topic | Skills or topics based on KEY | The actual standard, describing the item to be learned. |
+|   | ID | KEY | TYPE | CATEGORY | SECTION | DOMAIN | GRADELEVEL | DETAILS |
+| ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  ***datatype*** | `Integer` | `String` | `String` | `String` | `String` | `String` | `String` | `String` |
+|  ***model type*** | `Integer` | `String` | `Enum` | `String` | `Enum` | `Enum` | `Enum` | `String` |
+|  ***description*** | unique number for each of the 509 math standards | CCSS.MATH<br/>.CONTENT.* | standard or substandard | grade level and/or topics | section of the standards with similar characteristics | skills or topics based on KEY | grade level or grade level grouping | actual standard, describing the item to be learned |
+
 
 > **NOTE:** The words `KEY` and `DETAILS` are used for clarity. `KEY` always refers to the standard notation with grade level, domains, and standards information. `DETAILS` always refers to the standard in the form of words, phrases, or sentences.
 
