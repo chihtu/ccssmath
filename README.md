@@ -48,10 +48,10 @@
 
 |  TYPE | COUNT |
 | :--- | :---: |
-|  standard | 385 |
+|  standard | 393 |
 |  substandard | 124 |
 |   |  |
-|  **TOTAL** | **509** |
+|  **TOTAL** | **517** |
 
 ## Standards Grade Level
 
@@ -69,8 +69,9 @@
 |  Grade 7 | 43 |
 |  Grade 8 | 36 |
 |  High School | 192 |
+|  K-12 | 8 |
 |   |  |
-|  **TOTAL** | **509** |
+|  **TOTAL** | **517** |
 
 ## Standards Domain Counts
 
@@ -78,6 +79,7 @@
 
 |  DOMAIN | COUNT |
 | :--- | :---: |
+|  Mathematical Practices | 8 |
 |  Counting and Cardinality | 10 |
 |  Geometry | 43 |
 |  Measurement and Data | 50 |
@@ -112,7 +114,7 @@
 |  Interpreting Categorical and Quantitative Data | 12 |
 |  Using Probability to Make Decisions | 9 |
 |   |  |
-|  **TOTAL** | **509** |
+|  **TOTAL** | **517** |
 
 # License
 
