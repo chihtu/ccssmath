@@ -24,7 +24,7 @@
     + Useful for cross-referncing between standards
     + Useful for differentiating between very similar standards
     + Useful for keeping track of all 509 math standards (like on flashcards)
-    + Easier to use numbers than "K-12 sorting" the keys
+    + Sorting the numbers is easier than "K-12 sorting" the keys
 
 ## Workbooks
   + `cccssmath.xlsx` - Microsoft Excel spreadsheet
