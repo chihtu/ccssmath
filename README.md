@@ -28,12 +28,12 @@
 
 ## Workbooks
   + `cccssmath.xlsx` - Microsoft Excel spreadsheet
-      + Use with [Google Sheets](https://www.google.com/sheets/about/)
-      + Use with [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
-      + Use with [Zoho Sheet](https://www.zoho.com/sheet/)
+      + Use with [Google Sheets](https://www.google.com/sheets/about/).
+      + Use with [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel).
+      + Use with [Zoho Sheet](https://www.zoho.com/sheet/).
   + `cccssmath.ods` - OpenDocument spreasheet
-    + Use with [LibreOffice](https://www.libreoffice.org)
-    + Use with [Apache OpenOffice](https://www.openoffice.org)  
+    + Use with [LibreOffice](https://www.libreoffice.org).
+    + Use with [Apache OpenOffice](https://www.openoffice.org).
 
 ## Source Material
   + Commmon Core Math Standards are sourced from the official web site:
