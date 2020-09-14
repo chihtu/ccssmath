@@ -35,7 +35,7 @@
 ## Source Material
   + Commmon Core Math Standards are sourced from the official web site:
     + http://www.corestandards.org/Math/
-  + For accuracy, the source material is extracted using the [CCSS Math Standards Extraction Tool (SET)][set].
+  + For accuracy, the source material is extracted using the [**CCSS Math Standards Extraction Tool (SET)**][set].
   + CCSS Math SET also annotates the each standard with Category and Domain data from the source material.
   + For brevity, each standard has been shortened by removing extra examples.
   + For clarity and better machine readability, some symbols have been removed.
