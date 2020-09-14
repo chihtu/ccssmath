@@ -8,7 +8,7 @@
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  ***datatype*** | `Integer` | `String` | `String` | `String` | `String` | `String` | `String` | `String` |
 |  ***model type*** | `Integer` | `String` | `Enum` | `String` | `Enum` | `Enum` | `Enum` | `String` |
-|  ***description*** | unique number for each of the 509 math standards | CCSS.MATH<br/>.CONTENT.* | standard or substandard | grade level and/or topics | section of the standards with similar characteristics | skills or topics based on KEY | grade level or grade level grouping | actual standard, describing the item to be learned |
+|  ***description*** | unique number for each of the 509 math standards | CCSS.MATH.*  | standard or substandard | grade level and/or topics | section of the standards with similar characteristics | skills or topics based on KEY | grade level or grade level grouping | actual standard, describing the item to be learned |
 
 
 > **NOTE:** The words `KEY` and `DETAILS` are used for clarity. `KEY` always refers to the standard notation with grade level, domains, and standards information. `DETAILS` always refers to the standard in the form of words, phrases, or sentences.
