@@ -1,4 +1,7 @@
 # Common Core Math Standards in many formats
+  + There are 517 Math standards.
+  + Standards include math practices and content area standards.
+  + Formats include text files and workbooks (e.g., spreadsheets).
 
 ## Data Dictionary
 
