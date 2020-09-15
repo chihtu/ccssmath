@@ -2,6 +2,7 @@
   + There are 517 Math standards.
   + Standards include math practices and content area standards.
   + Formats include text files and workbooks (e.g., spreadsheets).
+  + Formats now include JSON files.
 
 ## Data Dictionary
 
@@ -34,6 +35,12 @@
   + `cccssmath.ods` - OpenDocument spreasheet
     + Use with [LibreOffice](https://www.libreoffice.org).
     + Use with [Apache OpenOffice](https://www.openoffice.org).
+    
+## JSON files
+  + `ccssmath.json`
+    + JavaScript Object Notation
+    + Delivers math standards as structured data.
+    + Useful for web and app developers.
 
 ## Source Material
   + Commmon Core Math Standards are sourced from the official web site:
