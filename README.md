@@ -39,8 +39,8 @@
 ## JSON files
   + `ccssmath.json`
     + JavaScript Object Notation
-    + Delivers math standards as structured data.
-    + Useful for web and app developers.
+    + Delivers math standards as a structured data object.
+    + Useful for developers.
 
 ## Source Material
   + Commmon Core Math Standards are sourced from the official web site:
