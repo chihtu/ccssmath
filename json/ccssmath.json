@@ -1,12 +1,4 @@
-/*
- * name     : ccssmath.json
- * job      : structured Common Core Math Standards data object
- * git      : https://github.com/pvtuhs/ccssmath
- * author   : Bitwise Thermodynamics https://btbt.dev
- * license  : https://opensource.org/licenses/MIT
- */
-
- {
+{
   "standards": [
     {
       "CCSS.MATH.PRACTICE.MP1": {
