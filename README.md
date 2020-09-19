@@ -4,6 +4,8 @@
   + Formats include text files and workbooks (e.g., spreadsheets).
   + Formats now include JSON files.
 
+> **NOTE:** Looking for [Common Core English Language Arts standards](https://github.com/pvtuhs/ccssela)?
+
 ## Data Dictionary
 
 > **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
