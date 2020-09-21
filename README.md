@@ -3,6 +3,7 @@
   + Standards include math practices and content area standards.
   + Formats include text files and workbooks (e.g., spreadsheets).
   + Formats now include JSON files.
+  + Use keyword `ccssmath` to search for ELA standards with the [**CCSS MATHREF Chrome extension**][ref].  
 
 > **NOTE:** Looking for [Common Core English Language Arts standards](https://github.com/pvtuhs/ccssela)?
 
@@ -138,5 +139,6 @@ Any examples or applications beyond the scope of the license are provided under 
   + https://opensource.org/licenses/MIT
 
 
+[ref]: https://chrome.google.com/webstore/detail/ccss-mathref/jckdedknnpncidbbaobpchejiodjmpfj
 [set]: https://chrome.google.com/webstore/detail/ccss-math-set/mfhkaogejcjjoillacimdhfpjpaoekbf
 [mtm]: https://gsuite.google.com/marketplace/app/markdowntablemaker/46507245362
