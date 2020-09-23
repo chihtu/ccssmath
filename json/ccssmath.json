@@ -90,7 +90,7 @@
     },
     {
       "standard": {
-        "category": "Counting and Cardinality",
+        "category": "Kindergarten: Counting and Cardinality",
         "details": "Count to 100 by ones and by tens.",
         "domain": "Counting and Cardinality",
         "gradelevel": "K",
@@ -101,7 +101,7 @@
     },
     {
       "standard": {
-        "category": "Counting and Cardinality",
+        "category": "Kindergarten: Counting and Cardinality",
         "details": "Count forward beginning from a given number within the known sequence (instead of having to begin at 1).",
         "domain": "Counting and Cardinality",
         "gradelevel": "K",
@@ -112,7 +112,7 @@
     },
     {
       "standard": {
-        "category": "Counting and Cardinality",
+        "category": "Kindergarten: Counting and Cardinality",
         "details": "Write numbers from 0 to 20. Represent a number of objects with a written numeral 0-20 (with 0 representing a count of no objects).",
         "domain": "Counting and Cardinality",
         "gradelevel": "K",
@@ -123,7 +123,7 @@
     },
     {
       "standard": {
-        "category": "Counting and Cardinality",
+        "category": "Kindergarten: Counting and Cardinality",
         "details": "Understand the relationship between numbers and quantities; connect counting to cardinality.",
         "domain": "Counting and Cardinality",
         "gradelevel": "K",
@@ -134,7 +134,7 @@
     },
     {
       "standard": {
-        "category": "Counting and Cardinality",
+        "category": "Kindergarten: Counting and Cardinality",
         "details": "When counting objects, say the number names in the standard order, pairing each object with one and only one number name and each number name with one and only one object.",
         "domain": "Counting and Cardinality",
         "gradelevel": "K",
@@ -145,7 +145,7 @@
     },
     {
       "standard": {
-        "category": "Counting and Cardinality",
+        "category": "Kindergarten: Counting and Cardinality",
         "details": "Understand that the last number name said tells the number of objects counted. The number of objects is the same regardless of their arrangement or the order in which they were counted.",
         "domain": "Counting and Cardinality",
         "gradelevel": "K",
@@ -156,7 +156,7 @@
     },
     {
       "standard": {
-        "category": "Counting and Cardinality",
+        "category": "Kindergarten: Counting and Cardinality",
         "details": "Understand that each successive number name refers to a quantity that is one larger.",
         "domain": "Counting and Cardinality",
         "gradelevel": "K",
@@ -167,7 +167,7 @@
     },
     {
       "standard": {
-        "category": "Counting and Cardinality",
+        "category": "Kindergarten: Counting and Cardinality",
         "details": "Count to answer \"how many?\" questions about as many as 20 things arranged in a line, a rectangular array, or a circle, or as many as 10 things in a scattered configuration; given a number from 1-20, count out that many objects.",
         "domain": "Counting and Cardinality",
         "gradelevel": "K",
@@ -178,7 +178,7 @@
     },
     {
       "standard": {
-        "category": "Counting and Cardinality",
+        "category": "Kindergarten: Counting and Cardinality",
         "details": "Identify whether the number of objects in one group is greater than, less than, or equal to the number of objects in another group, e.g., by using matching and counting strategies.",
         "domain": "Counting and Cardinality",
         "gradelevel": "K",
@@ -189,7 +189,7 @@
     },
     {
       "standard": {
-        "category": "Counting and Cardinality",
+        "category": "Kindergarten: Counting and Cardinality",
         "details": "Compare two numbers between 1 and 10 presented as written numerals.",
         "domain": "Counting and Cardinality",
         "gradelevel": "K",
@@ -200,7 +200,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Kindergarten: Operations and Algebraic Thinking",
         "details": "Represent addition and subtraction with objects, fingers, mental images, drawings, sounds (e.g., claps), acting out situations, verbal explanations, expressions, or equations.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "K",
@@ -211,7 +211,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Kindergarten: Operations and Algebraic Thinking",
         "details": "Solve addition and subtraction word problems, and add and subtract within 10, e.g., by using objects or drawings to represent the problem.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "K",
@@ -222,7 +222,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Kindergarten: Operations and Algebraic Thinking",
         "details": "Decompose numbers less than or equal to 10 into pairs in more than one way, e.g., by using objects or drawings, and record each decomposition by a drawing or equation (e.g., 5 = 2 + 3 and 5 = 4 + 1).",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "K",
@@ -233,7 +233,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Kindergarten: Operations and Algebraic Thinking",
         "details": "For any number from 1 to 9, find the number that makes 10 when added to the given number, e.g., by using objects or drawings, and record the answer with a drawing or equation.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "K",
@@ -244,7 +244,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Kindergarten: Operations and Algebraic Thinking",
         "details": "Fluently add and subtract within 5.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "K",
@@ -255,7 +255,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Kindergarten: Number and Operations in Base Ten ",
         "details": "Compose and decompose numbers from 11 to 19 into ten ones and some further ones, e.g., by using objects or drawings, and record each composition or decomposition by a drawing or equation (such as 18 = 10 + 8); understand that these numbers are composed of ten ones and one, two, three, four, five, six, seven, eight, or nine ones.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "K",
@@ -266,7 +266,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Kindergarten: Measurement and Data",
         "details": "Describe measurable attributes of objects, such as length or weight. Describe several measurable attributes of a single object.",
         "domain": "Measurement and Data",
         "gradelevel": "K",
@@ -277,7 +277,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Kindergarten: Measurement and Data",
         "details": "Directly compare two objects with a measurable attribute in common, to see which object has \"more of\"/\"less of\" the attribute, and describe the difference.",
         "domain": "Measurement and Data",
         "gradelevel": "K",
@@ -288,7 +288,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Kindergarten: Measurement and Data",
         "details": "Classify objects into given categories; count the numbers of objects in each category and sort the categories by count.",
         "domain": "Measurement and Data",
         "gradelevel": "K",
@@ -299,7 +299,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Kindergarten: Geometry",
         "details": "Describe objects in the environment using names of shapes, and describe the relative positions of these objects using terms such as above, below, beside, in front of, behind, and next to.",
         "domain": "Geometry",
         "gradelevel": "K",
@@ -310,7 +310,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Kindergarten: Geometry",
         "details": "Correctly name shapes regardless of their orientations or overall size.",
         "domain": "Geometry",
         "gradelevel": "K",
@@ -321,7 +321,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Kindergarten: Geometry",
         "details": "Identify shapes as two-dimensional (lying in a plane, \"flat\") or three-dimensional (\"solid\").",
         "domain": "Geometry",
         "gradelevel": "K",
@@ -332,7 +332,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Kindergarten: Geometry",
         "details": "Analyze and compare two- and three-dimensional shapes, in different sizes and orientations, using informal language to describe their similarities, differences, parts (e.g., number of sides and vertices/\"corners\") and other attributes (e.g., having sides of equal length).",
         "domain": "Geometry",
         "gradelevel": "K",
@@ -343,7 +343,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Kindergarten: Geometry",
         "details": "Model shapes in the world by building shapes from components (e.g., sticks and clay balls) and drawing shapes.",
         "domain": "Geometry",
         "gradelevel": "K",
@@ -354,7 +354,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Kindergarten: Geometry",
         "details": "Compose simple shapes to form larger shapes.",
         "domain": "Geometry",
         "gradelevel": "K",
@@ -365,7 +365,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 1: Operations and Algebraic Thinking",
         "details": "Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "1",
@@ -376,7 +376,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 1: Operations and Algebraic Thinking",
         "details": "Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "1",
@@ -387,7 +387,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 1: Operations and Algebraic Thinking",
         "details": "Apply properties of operations as strategies to add and subtract.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "1",
@@ -398,7 +398,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 1: Operations and Algebraic Thinking",
         "details": "Understand subtraction as an unknown-addend problem.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "1",
@@ -409,7 +409,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 1: Operations and Algebraic Thinking",
         "details": "Relate counting to addition and subtraction (e.g., by counting on 2 to add 2).",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "1",
@@ -420,7 +420,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 1: Operations and Algebraic Thinking",
         "details": "Add and subtract within 20, demonstrating fluency for addition and subtraction within 10. Use strategies such as counting on; making ten (e.g., 8 + 6 = 8 + 2 + 4 = 10 + 4 = 14); decomposing a number leading to a ten (e.g., 13 - 4 = 13 - 3 - 1 = 10 - 1 = 9); using the relationship between addition and subtraction (e.g., knowing that 8 + 4 = 12, one knows 12 - 8 = 4); and creating equivalent but easier or known sums (e.g., adding 6 + 7 by creating the known equivalent 6 + 6 + 1 = 12 + 1 = 13).",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "1",
@@ -431,7 +431,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 1: Operations and Algebraic Thinking",
         "details": "Understand the meaning of the equal sign, and determine if equations involving addition and subtraction are true or false.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "1",
@@ -442,7 +442,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 1: Operations and Algebraic Thinking",
         "details": "Determine the unknown whole number in an addition or subtraction equation relating three whole numbers.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "1",
@@ -453,7 +453,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 1: Number and Operations in Base Ten ",
         "details": "Count to 120, starting at any number less than 120. In this range, read and write numerals and represent a number of objects with a written numeral.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "1",
@@ -464,7 +464,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 1: Number and Operations in Base Ten ",
         "details": "Understand that the two digits of a two-digit number represent amounts of tens and ones. Understand the following as special cases:",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "1",
@@ -475,7 +475,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 1: Number and Operations in Base Ten ",
         "details": "10 can be thought of as a bundle of ten ones — called a \"ten.\"",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "1",
@@ -486,7 +486,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 1: Number and Operations in Base Ten ",
         "details": "The numbers from 11 to 19 are composed of a ten and one, two, three, four, five, six, seven, eight, or nine ones.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "1",
@@ -497,7 +497,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 1: Number and Operations in Base Ten ",
         "details": "The numbers 10, 20, 30, 40, 50, 60, 70, 80, 90 refer to one, two, three, four, five, six, seven, eight, or nine tens (and 0 ones).",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "1",
@@ -508,7 +508,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 1: Number and Operations in Base Ten ",
         "details": "Compare two two-digit numbers based on meanings of the tens and ones digits, recording the results of comparisons with the symbols >, =, and <.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "1",
@@ -519,7 +519,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 1: Number and Operations in Base Ten ",
         "details": "Add within 100, including adding a two-digit number and a one-digit number, and adding a two-digit number and a multiple of 10, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used. Understand that in adding two-digit numbers, one adds tens and tens, ones and ones; and sometimes it is necessary to compose a ten.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "1",
@@ -530,7 +530,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 1: Number and Operations in Base Ten ",
         "details": "Given a two-digit number, mentally find 10 more or 10 less than the number, without having to count; explain the reasoning used.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "1",
@@ -541,7 +541,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 1: Number and Operations in Base Ten ",
         "details": "Subtract multiples of 10 in the range 10-90 from multiples of 10 in the range 10-90 (positive or zero differences), using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "1",
@@ -552,7 +552,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 1: Measurement and Data",
         "details": "Order three objects by length; compare the lengths of two objects indirectly by using a third object.",
         "domain": "Measurement and Data",
         "gradelevel": "1",
@@ -563,7 +563,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 1: Measurement and Data",
         "details": "Express the length of an object as a whole number of length units, by laying multiple copies of a shorter object (the length unit) end to end; understand that the length measurement of an object is the number of same-size length units that span it with no gaps or overlaps. Limit to contexts where the object being measured is spanned by a whole number of length units with no gaps or overlaps.",
         "domain": "Measurement and Data",
         "gradelevel": "1",
@@ -574,7 +574,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 1: Measurement and Data",
         "details": "Tell and write time in hours and half-hours using analog and digital clocks.",
         "domain": "Measurement and Data",
         "gradelevel": "1",
@@ -585,7 +585,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 1: Measurement and Data",
         "details": "Organize, represent, and interpret data with up to three categories; ask and answer questions about the total number of data points, how many in each category, and how many more or less are in one category than in another.",
         "domain": "Measurement and Data",
         "gradelevel": "1",
@@ -596,7 +596,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 1: Geometry",
         "details": "Distinguish between defining attributes (e.g., triangles are closed and three-sided) versus non-defining attributes (e.g., color, orientation, overall size); build and draw shapes to possess defining attributes.",
         "domain": "Geometry",
         "gradelevel": "1",
@@ -607,7 +607,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 1: Geometry",
         "details": "Compose two-dimensional shapes (rectangles, squares, trapezoids, triangles, half-circles, and quarter-circles) or three-dimensional shapes (cubes, right rectangular prisms, right circular cones, and right circular cylinders) to create a composite shape, and compose new shapes from the composite shape.",
         "domain": "Geometry",
         "gradelevel": "1",
@@ -618,7 +618,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 1: Geometry",
         "details": "Partition circles and rectangles into two and four equal shares, describe the shares using the words halves, fourths, and quarters, and use the phrases half of, fourth of, and quarter of. Describe the whole as two of, or four of the shares. Understand for these examples that decomposing into more equal shares creates smaller shares.",
         "domain": "Geometry",
         "gradelevel": "1",
@@ -629,7 +629,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 2: Operations and Algebraic Thinking",
         "details": "Use addition and subtraction within 100 to solve one- and two-step word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "2",
@@ -640,7 +640,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 2: Operations and Algebraic Thinking",
         "details": "Fluently add and subtract within 20 using mental strategies.2 By end of Grade 2, know from memory all sums of two one-digit numbers.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "2",
@@ -651,7 +651,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 2: Operations and Algebraic Thinking",
         "details": "Determine whether a group of objects (up to 20) has an odd or even number of members, e.g., by pairing objects or counting them by 2s; write an equation to express an even number as a sum of two equal addends.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "2",
@@ -662,7 +662,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 2: Operations and Algebraic Thinking",
         "details": "Use addition to find the total number of objects arranged in rectangular arrays with up to 5 rows and up to 5 columns; write an equation to express the total as a sum of equal addends.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "2",
@@ -673,7 +673,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 2: Number and Operations in Base Ten ",
         "details": "Understand that the three digits of a three-digit number represent amounts of hundreds, tens, and ones; e.g., 706 equals 7 hundreds, 0 tens, and 6 ones. Understand the following as special cases:",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "2",
@@ -684,7 +684,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 2: Number and Operations in Base Ten ",
         "details": "100 can be thought of as a bundle of ten tens — called a \"hundred.\"",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "2",
@@ -695,7 +695,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 2: Number and Operations in Base Ten ",
         "details": "The numbers 100, 200, 300, 400, 500, 600, 700, 800, 900 refer to one, two, three, four, five, six, seven, eight, or nine hundreds (and 0 tens and 0 ones).",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "2",
@@ -706,7 +706,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 2: Number and Operations in Base Ten ",
         "details": "Count within 1000; skip-count by 5s, 10s, and 100s.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "2",
@@ -717,7 +717,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 2: Number and Operations in Base Ten ",
         "details": "Read and write numbers to 1000 using base-ten numerals, number names, and expanded form.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "2",
@@ -728,7 +728,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 2: Number and Operations in Base Ten ",
         "details": "Compare two three-digit numbers based on meanings of the hundreds, tens, and ones digits, using >, =, and < symbols to record the results of comparisons.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "2",
@@ -739,7 +739,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 2: Number and Operations in Base Ten ",
         "details": "Fluently add and subtract within 100 using strategies based on place value, properties of operations, and/or the relationship between addition and subtraction.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "2",
@@ -750,7 +750,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 2: Number and Operations in Base Ten ",
         "details": "Add up to four two-digit numbers using strategies based on place value and properties of operations.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "2",
@@ -761,7 +761,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 2: Number and Operations in Base Ten ",
         "details": "Add and subtract within 1000, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method. Understand that in adding or subtracting three-digit numbers, one adds or subtracts hundreds and hundreds, tens and tens, ones and ones; and sometimes it is necessary to compose or decompose tens or hundreds.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "2",
@@ -772,7 +772,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 2: Number and Operations in Base Ten ",
         "details": "Mentally add 10 or 100 to a given number 100-900, and mentally subtract 10 or 100 from a given number 100-900.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "2",
@@ -783,7 +783,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 2: Number and Operations in Base Ten ",
         "details": "Explain why addition and subtraction strategies work, using place value and the properties of operations.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "2",
@@ -794,7 +794,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 2: Measurement and Data",
         "details": "Measure the length of an object by selecting and using appropriate tools such as rulers, yardsticks, meter sticks, and measuring tapes.",
         "domain": "Measurement and Data",
         "gradelevel": "2",
@@ -805,7 +805,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 2: Measurement and Data",
         "details": "Measure the length of an object twice, using length units of different lengths for the two measurements; describe how the two measurements relate to the size of the unit chosen.",
         "domain": "Measurement and Data",
         "gradelevel": "2",
@@ -816,7 +816,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 2: Measurement and Data",
         "details": "Estimate lengths using units of inches, feet, centimeters, and meters.",
         "domain": "Measurement and Data",
         "gradelevel": "2",
@@ -827,7 +827,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 2: Measurement and Data",
         "details": "Measure to determine how much longer one object is than another, expressing the length difference in terms of a standard length unit.",
         "domain": "Measurement and Data",
         "gradelevel": "2",
@@ -838,7 +838,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 2: Measurement and Data",
         "details": "Use addition and subtraction within 100 to solve word problems involving lengths that are given in the same units, e.g., by using drawings (such as drawings of rulers) and equations with a symbol for the unknown number to represent the problem.",
         "domain": "Measurement and Data",
         "gradelevel": "2",
@@ -849,7 +849,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 2: Measurement and Data",
         "details": "Represent whole numbers as lengths from 0 on a number line diagram with equally spaced points corresponding to the numbers 0, 1, 2, ..., and represent whole-number sums and differences within 100 on a number line diagram.",
         "domain": "Measurement and Data",
         "gradelevel": "2",
@@ -860,7 +860,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 2: Measurement and Data",
         "details": "Tell and write time from analog and digital clocks to the nearest five minutes, using a.m. and p.m.",
         "domain": "Measurement and Data",
         "gradelevel": "2",
@@ -871,7 +871,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 2: Measurement and Data",
         "details": "Solve word problems involving dollar bills, quarters, dimes, nickels, and pennies, using $ and ¢ symbols appropriately. Example: If you have 2 dimes and 3 pennies, how many cents do you have?",
         "domain": "Measurement and Data",
         "gradelevel": "2",
@@ -882,7 +882,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 2: Measurement and Data",
         "details": "Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories. Solve simple put-together, take-apart, and compare problems1 using information presented in a bar graph.",
         "domain": "Measurement and Data",
         "gradelevel": "2",
@@ -893,7 +893,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 2: Measurement and Data",
         "details": "Generate measurement data by measuring lengths of several objects to the nearest whole unit, or by making repeated measurements of the same object. Show the measurements by making a line plot, where the horizontal scale is marked off in whole-number units.",
         "domain": "Measurement and Data",
         "gradelevel": "2",
@@ -904,7 +904,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 2: Geometry",
         "details": "Recognize and draw shapes having specified attributes, such as a given number of angles or a given number of equal faces.1 Identify triangles, quadrilaterals, pentagons, hexagons, and cubes.",
         "domain": "Geometry",
         "gradelevel": "2",
@@ -915,7 +915,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 2: Geometry",
         "details": "Partition a rectangle into rows and columns of same-size squares and count to find the total number of them.",
         "domain": "Geometry",
         "gradelevel": "2",
@@ -926,7 +926,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 2: Geometry",
         "details": "Partition circles and rectangles into two, three, or four equal shares, describe the shares using the words halves, thirds, half of, a third of, etc., and describe the whole as two halves, three thirds, four fourths. Recognize that equal shares of identical wholes need not have the same shape.",
         "domain": "Geometry",
         "gradelevel": "2",
@@ -937,7 +937,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 3: Operations and Algebraic Thinking",
         "details": "Interpret products of whole numbers, e.g., interpret 5 × 7 as the total number of objects in 5 groups of 7 objects each.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "3",
@@ -948,7 +948,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 3: Operations and Algebraic Thinking",
         "details": "Interpret whole-number quotients of whole numbers, e.g., interpret 56 ÷ 8 as the number of objects in each share when 56 objects are partitioned equally into 8 shares, or as a number of shares when 56 objects are partitioned into equal shares of 8 objects each.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "3",
@@ -959,7 +959,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 3: Operations and Algebraic Thinking",
         "details": "Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "3",
@@ -970,7 +970,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 3: Operations and Algebraic Thinking",
         "details": "Determine the unknown whole number in a multiplication or division equation relating three whole numbers.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "3",
@@ -981,7 +981,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 3: Operations and Algebraic Thinking",
         "details": "Apply properties of operations as strategies to multiply and divide.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "3",
@@ -992,7 +992,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 3: Operations and Algebraic Thinking",
         "details": "Understand division as an unknown-factor problem.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "3",
@@ -1003,7 +1003,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 3: Operations and Algebraic Thinking",
         "details": "Fluently multiply and divide within 100, using strategies such as the relationship between multiplication and division (e.g., knowing that 8 × 5 = 40, one knows 40 ÷ 5 = 8) or properties of operations. By the end of Grade 3, know from memory all products of two one-digit numbers.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "3",
@@ -1014,7 +1014,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 3: Operations and Algebraic Thinking",
         "details": "Solve two-step word problems using the four operations. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "3",
@@ -1025,7 +1025,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 3: Operations and Algebraic Thinking",
         "details": "Identify arithmetic patterns (including patterns in the addition table or multiplication table), and explain them using properties of operations.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "3",
@@ -1036,7 +1036,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 3: Number and Operations in Base Ten ",
         "details": "Use place value understanding to round whole numbers to the nearest 10 or 100.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "3",
@@ -1047,7 +1047,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 3: Number and Operations in Base Ten ",
         "details": "Fluently add and subtract within 1000 using strategies and algorithms based on place value, properties of operations, and/or the relationship between addition and subtraction.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "3",
@@ -1058,7 +1058,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 3: Number and Operations in Base Ten ",
         "details": "Multiply one-digit whole numbers by multiples of 10 in the range 10-90 (e.g., 9 × 80, 5 × 60) using strategies based on place value and properties of operations.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "3",
@@ -1069,7 +1069,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 3: Number and Operations with Fractions",
         "details": "Understand a fraction 1/b as the quantity formed by 1 part when a whole is partitioned into b equal parts; understand a fraction a/b as the quantity formed by a parts of size 1/b.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "3",
@@ -1080,7 +1080,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 3: Number and Operations with Fractions",
         "details": "Understand a fraction as a number on the number line; represent fractions on a number line diagram.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "3",
@@ -1091,7 +1091,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 3: Number and Operations with Fractions",
         "details": "Represent a fraction 1/b on a number line diagram by defining the interval from 0 to 1 as the whole and partitioning it into b equal parts. Recognize that each part has size 1/b and that the endpoint of the part based at 0 locates the number 1/b on the number line.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "3",
@@ -1102,7 +1102,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 3: Number and Operations with Fractions",
         "details": "Represent a fraction a/b on a number line diagram by marking off a lengths 1/b from 0. Recognize that the resulting interval has size a/b and that its endpoint locates the number a/b on the number line.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "3",
@@ -1113,7 +1113,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 3: Number and Operations with Fractions",
         "details": "Explain equivalence of fractions in special cases, and compare fractions by reasoning about their size.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "3",
@@ -1124,7 +1124,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 3: Number and Operations with Fractions",
         "details": "Understand two fractions as equivalent (equal) if they are the same size, or the same point on a number line.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "3",
@@ -1135,7 +1135,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 3: Number and Operations with Fractions",
         "details": "Recognize and generate simple equivalent fractions, e.g., 1/2 = 2/4, 4/6 = 2/3. Explain why the fractions are equivalent, e.g., by using a visual fraction model.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "3",
@@ -1146,7 +1146,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 3: Number and Operations with Fractions",
         "details": "Express whole numbers as fractions, and recognize fractions that are equivalent to whole numbers.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "3",
@@ -1157,7 +1157,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 3: Number and Operations with Fractions",
         "details": "Compare two fractions with the same numerator or the same denominator by reasoning about their size. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with the symbols >, =, or <, and justify the conclusions, e.g., by using a visual fraction model.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "3",
@@ -1168,7 +1168,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Tell and write time to the nearest minute and measure time intervals in minutes. Solve word problems involving addition and subtraction of time intervals in minutes, e.g., by representing the problem on a number line diagram.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1179,7 +1179,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Measure and estimate liquid volumes and masses of objects using standard units of grams (g), kilograms (kg), and liters (l).1 Add, subtract, multiply, or divide to solve one-step word problems involving masses or volumes that are given in the same units, e.g., by using drawings (such as a beaker with a measurement scale) to represent the problem.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1190,7 +1190,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Draw a scaled picture graph and a scaled bar graph to represent a data set with several categories. Solve one- and two-step \"how many more\" and \"how many less\" problems using information presented in scaled bar graphs.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1201,7 +1201,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Generate measurement data by measuring lengths using rulers marked with halves and fourths of an inch. Show the data by making a line plot, where the horizontal scale is marked off in appropriate units— whole numbers, halves, or quarters.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1212,7 +1212,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Recognize area as an attribute of plane figures and understand concepts of area measurement.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1223,7 +1223,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "A square with side length 1 unit, called \"a unit square,\" is said to have \"one square unit\" of area, and can be used to measure area.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1234,7 +1234,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "A plane figure which can be covered without gaps or overlaps by n unit squares is said to have an area of n square units.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1245,7 +1245,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Measure areas by counting unit squares (square cm, square m, square in, square ft, and improvised units).",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1256,7 +1256,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Relate area to the operations of multiplication and addition.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1267,7 +1267,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Find the area of a rectangle with whole-number side lengths by tiling it, and show that the area is the same as would be found by multiplying the side lengths.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1278,7 +1278,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Multiply side lengths to find areas of rectangles with whole-number side lengths in the context of solving real world and mathematical problems, and represent whole-number products as rectangular areas in mathematical reasoning.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1289,7 +1289,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Use tiling to show in a concrete case that the area of a rectangle with whole-number side lengths a and b + c is the sum of a × b and a × c. Use area models to represent the distributive property in mathematical reasoning.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1300,7 +1300,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Recognize area as additive. Find areas of rectilinear figures by decomposing them into non-overlapping rectangles and adding the areas of the non-overlapping parts, applying this technique to solve real world problems.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1311,7 +1311,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 3: Measurement and Data",
         "details": "Solve real world and mathematical problems involving perimeters of polygons, including finding the perimeter given the side lengths, finding an unknown side length, and exhibiting rectangles with the same perimeter and different areas or with the same area and different perimeters.",
         "domain": "Measurement and Data",
         "gradelevel": "3",
@@ -1322,7 +1322,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 3: Geometry",
         "details": "Understand that shapes in different categories (e.g., rhombuses, rectangles, and others) may share attributes (e.g., having four sides), and that the shared attributes can define a larger category (e.g., quadrilaterals). Recognize rhombuses, rectangles, and squares as examples of quadrilaterals, and draw examples of quadrilaterals that do not belong to any of these subcategories.",
         "domain": "Geometry",
         "gradelevel": "3",
@@ -1333,7 +1333,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 3: Geometry",
         "details": "Partition shapes into parts with equal areas. Express the area of each part as a unit fraction of the whole.",
         "domain": "Geometry",
         "gradelevel": "3",
@@ -1344,7 +1344,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 4: Operations and Algebraic Thinking",
         "details": "Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "4",
@@ -1355,7 +1355,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 4: Operations and Algebraic Thinking",
         "details": "Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "4",
@@ -1366,7 +1366,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 4: Operations and Algebraic Thinking",
         "details": "Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "4",
@@ -1377,7 +1377,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 4: Operations and Algebraic Thinking",
         "details": "Find all factor pairs for a whole number in the range 1-100. Recognize that a whole number is a multiple of each of its factors. Determine whether a given whole number in the range 1-100 is a multiple of a given one-digit number. Determine whether a given whole number in the range 1-100 is prime or composite.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "4",
@@ -1388,7 +1388,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 4: Operations and Algebraic Thinking",
         "details": "Generate a number or shape pattern that follows a given rule. Identify apparent features of the pattern that were not explicit in the rule itself.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "4",
@@ -1399,7 +1399,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 4: Number and Operations in Base Ten",
         "details": "Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "4",
@@ -1410,7 +1410,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 4: Number and Operations in Base Ten",
         "details": "Read and write multi-digit whole numbers using base-ten numerals, number names, and expanded form. Compare two multi-digit numbers based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "4",
@@ -1421,7 +1421,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 4: Number and Operations in Base Ten",
         "details": "Use place value understanding to round multi-digit whole numbers to any place.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "4",
@@ -1432,7 +1432,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 4: Number and Operations in Base Ten",
         "details": "Fluently add and subtract multi-digit whole numbers using the standard algorithm.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "4",
@@ -1443,7 +1443,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 4: Number and Operations in Base Ten",
         "details": "Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "4",
@@ -1454,7 +1454,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 4: Number and Operations in Base Ten",
         "details": "Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "4",
@@ -1465,7 +1465,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Explain why a fraction a/b is equivalent to a fraction (n × a)/(n × b) by using visual fraction models, with attention to how the number and size of the parts differ even though the two fractions themselves are the same size. Use this principle to recognize and generate equivalent fractions.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1476,7 +1476,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Compare two fractions with different numerators and different denominators, e.g., by creating common denominators or numerators, or by comparing to a benchmark fraction such as 1/2. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with symbols >, =, or <, and justify the conclusions, e.g., by using a visual fraction model.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1487,7 +1487,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Understand a fraction a/b with a > 1 as a sum of fractions 1/b.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1498,7 +1498,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Understand addition and subtraction of fractions as joining and separating parts referring to the same whole.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1509,7 +1509,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Decompose a fraction into a sum of fractions with the same denominator in more than one way, recording each decomposition by an equation. Justify decompositions, e.g., by using a visual fraction model.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1520,7 +1520,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Add and subtract mixed numbers with like denominators, e.g., by replacing each mixed number with an equivalent fraction, and/or by using properties of operations and the relationship between addition and subtraction.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1531,7 +1531,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Solve word problems involving addition and subtraction of fractions referring to the same whole and having like denominators, e.g., by using visual fraction models and equations to represent the problem.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1542,7 +1542,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Apply and extend previous understandings of multiplication to multiply a fraction by a whole number.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1553,7 +1553,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Understand a fraction a/b as a multiple of 1/b.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1564,7 +1564,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Understand a multiple of a/b as a multiple of 1/b, and use this understanding to multiply a fraction by a whole number.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1575,7 +1575,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Solve word problems involving multiplication of a fraction by a whole number, e.g., by using visual fraction models and equations to represent the problem.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1586,7 +1586,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Express a fraction with denominator 10 as an equivalent fraction with denominator 100, and use this technique to add two fractions with respective denominators 10 and 100.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1597,7 +1597,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Use decimal notation for fractions with denominators 10 or 100.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1608,7 +1608,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 4: Number and Operations with FractionsÂ",
         "details": "Compare two decimals to hundredths by reasoning about their size. Recognize that comparisons are valid only when the two decimals refer to the same whole. Record the results of comparisons with the symbols >, =, or <, and justify the conclusions, e.g., by using a visual model.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "4",
@@ -1619,7 +1619,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 4: Measurement and Data",
         "details": "Know relative sizes of measurement units within one system of units including km, m, cm; kg, g; lb, oz.; l, ml; hr, min, sec. Within a single system of measurement, express measurements in a larger unit in terms of a smaller unit. Record measurement equivalents in a two-column table.",
         "domain": "Measurement and Data",
         "gradelevel": "4",
@@ -1630,7 +1630,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 4: Measurement and Data",
         "details": "Use the four operations to solve word problems involving distances, intervals of time, liquid volumes, masses of objects, and money, including problems involving simple fractions or decimals, and problems that require expressing measurements given in a larger unit in terms of a smaller unit. Represent measurement quantities using diagrams such as number line diagrams that feature a measurement scale.",
         "domain": "Measurement and Data",
         "gradelevel": "4",
@@ -1641,7 +1641,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 4: Measurement and Data",
         "details": "Apply the area and perimeter formulas for rectangles in real world and mathematical problems.",
         "domain": "Measurement and Data",
         "gradelevel": "4",
@@ -1652,7 +1652,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 4: Measurement and Data",
         "details": "Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). Solve problems involving addition and subtraction of fractions by using information presented in line plots.",
         "domain": "Measurement and Data",
         "gradelevel": "4",
@@ -1663,7 +1663,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 4: Measurement and Data",
         "details": "Recognize angles as geometric shapes that are formed wherever two rays share a common endpoint, and understand concepts of angle measurement:",
         "domain": "Measurement and Data",
         "gradelevel": "4",
@@ -1674,7 +1674,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 4: Measurement and Data",
         "details": "An angle is measured with reference to a circle with its center at the common endpoint of the rays, by considering the fraction of the circular arc between the points where the two rays intersect the circle. An angle that turns through 1/360 of a circle is called a \"one-degree angle,\" and can be used to measure angles.",
         "domain": "Measurement and Data",
         "gradelevel": "4",
@@ -1685,7 +1685,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 4: Measurement and Data",
         "details": "An angle that turns through n one-degree angles is said to have an angle measure of n degrees.",
         "domain": "Measurement and Data",
         "gradelevel": "4",
@@ -1696,7 +1696,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 4: Measurement and Data",
         "details": "Measure angles in whole-number degrees using a protractor. Sketch angles of specified measure.",
         "domain": "Measurement and Data",
         "gradelevel": "4",
@@ -1707,7 +1707,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 4: Measurement and Data",
         "details": "Recognize angle measure as additive. When an angle is decomposed into non-overlapping parts, the angle measure of the whole is the sum of the angle measures of the parts. Solve addition and subtraction problems to find unknown angles on a diagram in real world and mathematical problems, e.g., by using an equation with a symbol for the unknown angle measure.",
         "domain": "Measurement and Data",
         "gradelevel": "4",
@@ -1718,7 +1718,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 4: Geometry",
         "details": "Draw points, lines, line segments, rays, angles (right, acute, obtuse), and perpendicular and parallel lines. Identify these in two-dimensional figures.",
         "domain": "Geometry",
         "gradelevel": "4",
@@ -1729,7 +1729,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 4: Geometry",
         "details": "Classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines, or the presence or absence of angles of a specified size. Recognize right triangles as a category, and identify right triangles.",
         "domain": "Geometry",
         "gradelevel": "4",
@@ -1740,7 +1740,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 4: Geometry",
         "details": "Recognize a line of symmetry for a two-dimensional figure as a line across the figure such that the figure can be folded along the line into matching parts. Identify line-symmetric figures and draw lines of symmetry.",
         "domain": "Geometry",
         "gradelevel": "4",
@@ -1751,7 +1751,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 5: Operations and Algebraic Thinking",
         "details": "Use parentheses, brackets, or braces in numerical expressions, and evaluate expressions with these symbols.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "5",
@@ -1762,7 +1762,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 5: Operations and Algebraic Thinking",
         "details": "Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "5",
@@ -1773,7 +1773,7 @@
     },
     {
       "standard": {
-        "category": "Operations and Algebraic Thinking",
+        "category": "Grade 5: Operations and Algebraic Thinking",
         "details": "Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms. Form ordered pairs consisting of corresponding terms from the two patterns, and graph the ordered pairs on a coordinate plane.",
         "domain": "Operations and Algebraic Thinking",
         "gradelevel": "5",
@@ -1784,7 +1784,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 5: Number and Operations in Base Ten",
         "details": "Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and 1/10 of what it represents in the place to its left.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "5",
@@ -1795,7 +1795,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 5: Number and Operations in Base Ten",
         "details": "Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of 10. Use whole-number exponents to denote powers of 10.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "5",
@@ -1806,7 +1806,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 5: Number and Operations in Base Ten",
         "details": "Read, write, and compare decimals to thousandths.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "5",
@@ -1817,7 +1817,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 5: Number and Operations in Base Ten",
         "details": "Read and write decimals to thousandths using base-ten numerals, number names, and expanded form, e.g., 347.392 = 3 × 100 + 4 × 10 + 7 × 1 + 3 × (1/10) + 9 × (1/100) + 2 × (1/1000).",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "5",
@@ -1828,7 +1828,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 5: Number and Operations in Base Ten",
         "details": "Compare two decimals to thousandths based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "5",
@@ -1839,7 +1839,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 5: Number and Operations in Base Ten",
         "details": "Use place value understanding to round decimals to any place.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "5",
@@ -1850,7 +1850,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 5: Number and Operations in Base Ten",
         "details": "Fluently multiply multi-digit whole numbers using the standard algorithm.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "5",
@@ -1861,7 +1861,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 5: Number and Operations in Base Ten",
         "details": "Find whole-number quotients of whole numbers with up to four-digit dividends and two-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "5",
@@ -1872,7 +1872,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations in Base Ten",
+        "category": "Grade 5: Number and Operations in Base Ten",
         "details": "Add, subtract, multiply, and divide decimals to hundredths, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.",
         "domain": "Number and Operations in Base Ten",
         "gradelevel": "5",
@@ -1883,7 +1883,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Add and subtract fractions with unlike denominators (including mixed numbers) by replacing given fractions with equivalent fractions in such a way as to produce an equivalent sum or difference of fractions with like denominators.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -1894,7 +1894,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Solve word problems involving addition and subtraction of fractions referring to the same whole, including cases of unlike denominators, e.g., by using visual fraction models or equations to represent the problem. Use benchmark fractions and number sense of fractions to estimate mentally and assess the reasonableness of answers.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -1905,7 +1905,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Interpret a fraction as division of the numerator by the denominator (a/b = a ÷ b). Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, e.g., by using visual fraction models or equations to represent the problem.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -1916,7 +1916,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -1927,7 +1927,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Interpret the product (a/b) × q as a parts of a partition of q into b equal parts; equivalently, as the result of a sequence of operations a × q ÷ b.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -1938,7 +1938,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Find the area of a rectangle with fractional side lengths by tiling it with unit squares of the appropriate unit fraction side lengths, and show that the area is the same as would be found by multiplying the side lengths. Multiply fractional side lengths to find areas of rectangles, and represent fraction products as rectangular areas.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -1949,7 +1949,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Interpret multiplication as scaling (resizing), by:",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -1960,7 +1960,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Comparing the size of a product to the size of one factor on the basis of the size of the other factor, without performing the indicated multiplication.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -1971,7 +1971,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Explaining why multiplying a given number by a fraction greater than 1 results in a product greater than the given number (recognizing multiplication by whole numbers greater than 1 as a familiar case); explaining why multiplying a given number by a fraction less than 1 results in a product smaller than the given number; and relating the principle of fraction equivalence a/b = (n × a)/(n × b) to the effect of multiplying a/b by 1.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -1982,7 +1982,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Solve real world problems involving multiplication of fractions and mixed numbers, e.g., by using visual fraction models or equations to represent the problem.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -1993,7 +1993,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -2004,7 +2004,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Interpret division of a unit fraction by a non-zero whole number, and compute such quotients.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -2015,7 +2015,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Interpret division of a whole number by a unit fraction, and compute such quotients.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -2026,7 +2026,7 @@
     },
     {
       "standard": {
-        "category": "Number and Operations with Fractions",
+        "category": "Grade 5: Number and Operations with Fractions",
         "details": "Solve real world problems involving division of unit fractions by non-zero whole numbers and division of whole numbers by unit fractions, e.g., by using visual fraction models and equations to represent the problem.",
         "domain": "Number and Operations with Fractions",
         "gradelevel": "5",
@@ -2037,7 +2037,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 5: Measurement and Data",
         "details": "Convert among different-sized standard measurement units within a given measurement system (e.g., convert 5 cm to 0.05 m), and use these conversions in solving multi-step, real world problems.",
         "domain": "Measurement and Data",
         "gradelevel": "5",
@@ -2048,7 +2048,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 5: Measurement and Data",
         "details": "Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). Use operations on fractions for this grade to solve problems involving information presented in line plots.",
         "domain": "Measurement and Data",
         "gradelevel": "5",
@@ -2059,7 +2059,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 5: Measurement and Data",
         "details": "Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
         "domain": "Measurement and Data",
         "gradelevel": "5",
@@ -2070,7 +2070,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 5: Measurement and Data",
         "details": "A cube with side length 1 unit, called a \"unit cube,\" is said to have \"one cubic unit\" of volume, and can be used to measure volume.",
         "domain": "Measurement and Data",
         "gradelevel": "5",
@@ -2081,7 +2081,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 5: Measurement and Data",
         "details": "A solid figure which can be packed without gaps or overlaps using n unit cubes is said to have a volume of n cubic units.",
         "domain": "Measurement and Data",
         "gradelevel": "5",
@@ -2092,7 +2092,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 5: Measurement and Data",
         "details": "Measure volumes by counting unit cubes, using cubic cm, cubic in, cubic ft, and improvised units.",
         "domain": "Measurement and Data",
         "gradelevel": "5",
@@ -2103,7 +2103,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 5: Measurement and Data",
         "details": "Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
         "domain": "Measurement and Data",
         "gradelevel": "5",
@@ -2114,7 +2114,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 5: Measurement and Data",
         "details": "Find the volume of a right rectangular prism with whole-number side lengths by packing it with unit cubes, and show that the volume is the same as would be found by multiplying the edge lengths, equivalently by multiplying the height by the area of the base. Represent threefold whole-number products as volumes, e.g., to represent the associative property of multiplication.",
         "domain": "Measurement and Data",
         "gradelevel": "5",
@@ -2125,7 +2125,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 5: Measurement and Data",
         "details": "Apply the formulas V = l × w × h and V = b × h for rectangular prisms to find volumes of right rectangular prisms with whole-number edge lengths in the context of solving real world and mathematical problems.",
         "domain": "Measurement and Data",
         "gradelevel": "5",
@@ -2136,7 +2136,7 @@
     },
     {
       "standard": {
-        "category": "Measurement and Data",
+        "category": "Grade 5: Measurement and Data",
         "details": "Recognize volume as additive. Find volumes of solid figures composed of two non-overlapping right rectangular prisms by adding the volumes of the non-overlapping parts, applying this technique to solve real world problems.",
         "domain": "Measurement and Data",
         "gradelevel": "5",
@@ -2147,7 +2147,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 5: Geometry",
         "details": "Use a pair of perpendicular number lines, called axes, to define a coordinate system, with the intersection of the lines (the origin) arranged to coincide with the 0 on each line and a given point in the plane located by using an ordered pair of numbers, called its coordinates. Understand that the first number indicates how far to travel from the origin in the direction of one axis, and the second number indicates how far to travel in the direction of the second axis, with the convention that the names of the two axes and the coordinates correspond (e.g., x-axis and x-coordinate, y-axis and y-coordinate).",
         "domain": "Geometry",
         "gradelevel": "5",
@@ -2158,7 +2158,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 5: Geometry",
         "details": "Represent real world and mathematical problems by graphing points in the first quadrant of the coordinate plane, and interpret coordinate values of points in the context of the situation.",
         "domain": "Geometry",
         "gradelevel": "5",
@@ -2169,7 +2169,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 5: Geometry",
         "details": "Understand that attributes belonging to a category of two-dimensional figures also belong to all subcategories of that category.",
         "domain": "Geometry",
         "gradelevel": "5",
@@ -2180,7 +2180,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 5: Geometry",
         "details": "Classify two-dimensional figures in a hierarchy based on properties.",
         "domain": "Geometry",
         "gradelevel": "5",
@@ -2191,7 +2191,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 6: Ratios and Proportional Relationships",
         "details": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "6",
@@ -2202,7 +2202,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 6: Ratios and Proportional Relationships",
         "details": "Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "6",
@@ -2213,7 +2213,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 6: Ratios and Proportional Relationships",
         "details": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "6",
@@ -2224,7 +2224,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 6: Ratios and Proportional Relationships",
         "details": "Make tables of equivalent ratios relating quantities with whole-number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. Use tables to compare ratios.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "6",
@@ -2235,7 +2235,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 6: Ratios and Proportional Relationships",
         "details": "Solve unit rate problems including those involving unit pricing and constant speed.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "6",
@@ -2246,7 +2246,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 6: Ratios and Proportional Relationships",
         "details": "Find a percent of a quantity as a rate per 100 (e.g., 30% of a quantity means 30/100 times the quantity); solve problems involving finding the whole, given a part and the percent.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "6",
@@ -2257,7 +2257,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 6: Ratios and Proportional Relationships",
         "details": "Use ratio reasoning to convert measurement units; manipulate and transform units appropriately when multiplying or dividing quantities.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "6",
@@ -2268,7 +2268,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions, e.g., by using visual fraction models and equations to represent the problem.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2279,7 +2279,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Fluently divide multi-digit numbers using the standard algorithm.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2290,7 +2290,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Fluently add, subtract, multiply, and divide multi-digit decimals using the standard algorithm for each operation.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2301,7 +2301,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Find the greatest common factor of two whole numbers less than or equal to 100 and the least common multiple of two whole numbers less than or equal to 12. Use the distributive property to express a sum of two whole numbers 1-100 with a common factor as a multiple of a sum of two whole numbers with no common factor.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2312,7 +2312,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values (e.g., temperature above/below zero, elevation above/below sea level, credits/debits, positive/negative electric charge); use positive and negative numbers to represent quantities in real-world contexts, explaining the meaning of 0 in each situation.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2323,7 +2323,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2334,7 +2334,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Recognize opposite signs of numbers as indicating locations on opposite sides of 0 on the number line; recognize that the opposite of the opposite of a number is the number itself, e.g., -(-3) = 3, and that 0 is its own opposite.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2345,7 +2345,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Understand signs of numbers in ordered pairs as indicating locations in quadrants of the coordinate plane; recognize that when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2356,7 +2356,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Find and position integers and other rational numbers on a horizontal or vertical number line diagram; find and position pairs of integers and other rational numbers on a coordinate plane.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2367,7 +2367,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Understand ordering and absolute value of rational numbers.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2378,7 +2378,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Interpret statements of inequality as statements about the relative position of two numbers on a number line diagram.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2389,7 +2389,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Write, interpret, and explain statements of order for rational numbers in real-world contexts.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2400,7 +2400,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Understand the absolute value of a rational number as its distance from 0 on the number line; interpret absolute value as magnitude for a positive or negative quantity in a real-world situation.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2411,7 +2411,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Distinguish comparisons of absolute value from statements about order.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2422,7 +2422,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 6: The Number System",
         "details": "Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane. Include use of coordinates and absolute value to find distances between points with the same first coordinate or the same second coordinate.",
         "domain": "The Number System",
         "gradelevel": "6",
@@ -2433,7 +2433,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Write and evaluate numerical expressions involving whole-number exponents.",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2444,7 +2444,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Write, read, and evaluate expressions in which letters stand for numbers.",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2455,7 +2455,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Write expressions that record operations with numbers and with letters standing for numbers.",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2466,7 +2466,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Identify parts of an expression using mathematical terms (sum, term, product, factor, quotient, coefficient); view one or more parts of an expression as a single entity.",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2477,7 +2477,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Evaluate expressions at specific values of their variables. Include expressions that arise from formulas used in real-world problems. Perform arithmetic operations, including those involving whole-number exponents, in the conventional order when there are no parentheses to specify a particular order (Order of Operations).",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2488,7 +2488,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Apply the properties of operations to generate equivalent expressions.",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2499,7 +2499,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Identify when two expressions are equivalent (i.e., when the two expressions name the same number regardless of which value is substituted into them).",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2510,7 +2510,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Understand solving an equation or inequality as a process of answering a question: which values from a specified set, if any, make the equation or inequality true? Use substitution to determine whether a given number in a specified set makes an equation or inequality true.",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2521,7 +2521,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem; understand that a variable can represent an unknown number, or, depending on the purpose at hand, any number in a specified set.",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2532,7 +2532,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Solve real-world and mathematical problems by writing and solving equations of the form x + p = q and px = q for cases in which p, q and x are all nonnegative rational numbers.",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2543,7 +2543,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Write an inequality of the form x > c or x < c to represent a constraint or condition in a real-world or mathematical problem. Recognize that inequalities of the form x > c or x < c have infinitely many solutions; represent solutions of such inequalities on number line diagrams.",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2554,7 +2554,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 6: Expressions and Equations",
         "details": "Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought of as the dependent variable, in terms of the other quantity, thought of as the independent variable. Analyze the relationship between the dependent and independent variables using graphs and tables, and relate these to the equation.",
         "domain": "Expressions and Equations",
         "gradelevel": "6",
@@ -2565,7 +2565,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 6: Geometry",
         "details": "Find the area of right triangles, other triangles, special quadrilaterals, and polygons by composing into rectangles or decomposing into triangles and other shapes; apply these techniques in the context of solving real-world and mathematical problems.",
         "domain": "Geometry",
         "gradelevel": "6",
@@ -2576,7 +2576,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 6: Geometry",
         "details": "Find the volume of a right rectangular prism with fractional edge lengths by packing it with unit cubes of the appropriate unit fraction edge lengths, and show that the volume is the same as would be found by multiplying the edge lengths of the prism. Apply the formulas V = l w h and V = b h to find volumes of right rectangular prisms with fractional edge lengths in the context of solving real-world and mathematical problems.",
         "domain": "Geometry",
         "gradelevel": "6",
@@ -2587,7 +2587,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 6: Geometry",
         "details": "Draw polygons in the coordinate plane given coordinates for the vertices; use coordinates to find the length of a side joining points with the same first coordinate or the same second coordinate. Apply these techniques in the context of solving real-world and mathematical problems.",
         "domain": "Geometry",
         "gradelevel": "6",
@@ -2598,7 +2598,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 6: Geometry",
         "details": "Represent three-dimensional figures using nets made up of rectangles and triangles, and use the nets to find the surface area of these figures. Apply these techniques in the context of solving real-world and mathematical problems.",
         "domain": "Geometry",
         "gradelevel": "6",
@@ -2609,7 +2609,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 6: Statistics and Probability",
         "details": "Recognize a statistical question as one that anticipates variability in the data related to the question and accounts for it in the answers.",
         "domain": "Statistics and Probability",
         "gradelevel": "6",
@@ -2620,7 +2620,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 6: Statistics and Probability",
         "details": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
         "domain": "Statistics and Probability",
         "gradelevel": "6",
@@ -2631,7 +2631,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 6: Statistics and Probability",
         "details": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary with a single number.",
         "domain": "Statistics and Probability",
         "gradelevel": "6",
@@ -2642,7 +2642,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 6: Statistics and Probability",
         "details": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
         "domain": "Statistics and Probability",
         "gradelevel": "6",
@@ -2653,7 +2653,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 6: Statistics and Probability",
         "details": "Summarize numerical data sets in relation to their context, such as by:",
         "domain": "Statistics and Probability",
         "gradelevel": "6",
@@ -2664,7 +2664,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 6: Statistics and Probability",
         "details": "Reporting the number of observations.",
         "domain": "Statistics and Probability",
         "gradelevel": "6",
@@ -2675,7 +2675,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 6: Statistics and Probability",
         "details": "Describing the nature of the attribute under investigation, including how it was measured and its units of measurement.",
         "domain": "Statistics and Probability",
         "gradelevel": "6",
@@ -2686,7 +2686,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 6: Statistics and Probability",
         "details": "Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered.",
         "domain": "Statistics and Probability",
         "gradelevel": "6",
@@ -2697,7 +2697,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 6: Statistics and Probability",
         "details": "Relating the choice of measures of center and variability to the shape of the data distribution and the context in which the data were gathered.",
         "domain": "Statistics and Probability",
         "gradelevel": "6",
@@ -2708,7 +2708,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 7: Ratios and Proportional Relationships",
         "details": "Compute unit rates associated with ratios of fractions, including ratios of lengths, areas and other quantities measured in like or different units.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "7",
@@ -2719,7 +2719,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 7: Ratios and Proportional Relationships",
         "details": "Recognize and represent proportional relationships between quantities.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "7",
@@ -2730,7 +2730,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 7: Ratios and Proportional Relationships",
         "details": "Decide whether two quantities are in a proportional relationship, e.g., by testing for equivalent ratios in a table or graphing on a coordinate plane and observing whether the graph is a straight line through the origin.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "7",
@@ -2741,7 +2741,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 7: Ratios and Proportional Relationships",
         "details": "Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "7",
@@ -2752,7 +2752,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 7: Ratios and Proportional Relationships",
         "details": "Represent proportional relationships by equations.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "7",
@@ -2763,7 +2763,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 7: Ratios and Proportional Relationships",
         "details": "Explain what a point (x, y) on the graph of a proportional relationship means in terms of the situation, with special attention to the points (0, 0) and (1, r) where r is the unit rate.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "7",
@@ -2774,7 +2774,7 @@
     },
     {
       "standard": {
-        "category": "Ratios and Proportional Relationships",
+        "category": "Grade 7: Ratios and Proportional Relationships",
         "details": "Use proportional relationships to solve multistep ratio and percent problems.",
         "domain": "Ratios and Proportional Relationships",
         "gradelevel": "7",
@@ -2785,7 +2785,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 7: The Number System",
         "details": "Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
         "domain": "The Number System",
         "gradelevel": "7",
@@ -2796,7 +2796,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 7: The Number System",
         "details": "Describe situations in which opposite quantities combine to make 0.",
         "domain": "The Number System",
         "gradelevel": "7",
@@ -2807,7 +2807,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 7: The Number System",
         "details": "Understand p + q as the number located a distance |q| from p, in the positive or negative direction depending on whether q is positive or negative. Show that a number and its opposite have a sum of 0 (are additive inverses). Interpret sums of rational numbers by describing real-world contexts.",
         "domain": "The Number System",
         "gradelevel": "7",
@@ -2818,7 +2818,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 7: The Number System",
         "details": "Understand subtraction of rational numbers as adding the additive inverse, p - q = p + (-q). Show that the distance between two rational numbers on the number line is the absolute value of their difference, and apply this principle in real-world contexts.",
         "domain": "The Number System",
         "gradelevel": "7",
@@ -2829,7 +2829,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 7: The Number System",
         "details": "Apply properties of operations as strategies to add and subtract rational numbers.",
         "domain": "The Number System",
         "gradelevel": "7",
@@ -2840,7 +2840,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 7: The Number System",
         "details": "Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
         "domain": "The Number System",
         "gradelevel": "7",
@@ -2851,7 +2851,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 7: The Number System",
         "details": "Understand that multiplication is extended from fractions to rational numbers by requiring that operations continue to satisfy the properties of operations, particularly the distributive property, leading to products such as (-1)(-1) = 1 and the rules for multiplying signed numbers. Interpret products of rational numbers by describing real-world contexts.",
         "domain": "The Number System",
         "gradelevel": "7",
@@ -2862,7 +2862,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 7: The Number System",
         "details": "Understand that integers can be divided, provided that the divisor is not zero, and every quotient of integers (with non-zero divisor) is a rational number. If p and q are integers, then -(p/q) = (-p)/q = p/(-q). Interpret quotients of rational numbers by describing real-world contexts.",
         "domain": "The Number System",
         "gradelevel": "7",
@@ -2873,7 +2873,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 7: The Number System",
         "details": "Apply properties of operations as strategies to multiply and divide rational numbers.",
         "domain": "The Number System",
         "gradelevel": "7",
@@ -2884,7 +2884,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 7: The Number System",
         "details": "Convert a rational number to a decimal using long division; know that the decimal form of a rational number terminates in 0s or eventually repeats.",
         "domain": "The Number System",
         "gradelevel": "7",
@@ -2895,7 +2895,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 7: The Number System",
         "details": "Solve real-world and mathematical problems involving the four operations with rational numbers.",
         "domain": "The Number System",
         "gradelevel": "7",
@@ -2906,7 +2906,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 7: Expressions and Equations",
         "details": "Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients.",
         "domain": "Expressions and Equations",
         "gradelevel": "7",
@@ -2917,7 +2917,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 7: Expressions and Equations",
         "details": "Understand that rewriting an expression in different forms in a problem context can shed light on the problem and how the quantities in it are related.",
         "domain": "Expressions and Equations",
         "gradelevel": "7",
@@ -2928,7 +2928,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 7: Expressions and Equations",
         "details": "Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals), using tools strategically. Apply properties of operations to calculate with numbers in any form; convert between forms as appropriate; and assess the reasonableness of answers using mental computation and estimation strategies. For example: If a woman making $25 an hour gets a 10% raise, she will make an additional 1/10 of her salary an hour, or $2.50, for a new salary of $27.50. If you want to place a towel bar 9 3/4 inches long in the center of a door that is 27 1/2 inches wide, you will need to place the bar about 9 inches from each edge; this estimate can be used as a check on the exact computation.",
         "domain": "Expressions and Equations",
         "gradelevel": "7",
@@ -2939,7 +2939,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 7: Expressions and Equations",
         "details": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
         "domain": "Expressions and Equations",
         "gradelevel": "7",
@@ -2950,7 +2950,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 7: Expressions and Equations",
         "details": "Solve word problems leading to equations of the form px + q = r and p(x + q) = r, where p, q, and r are specific rational numbers. Solve equations of these forms fluently. Compare an algebraic solution to an arithmetic solution, identifying the sequence of the operations used in each approach.",
         "domain": "Expressions and Equations",
         "gradelevel": "7",
@@ -2961,7 +2961,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 7: Expressions and Equations",
         "details": "Solve word problems leading to inequalities of the form px + q > r or px + q < r, where p, q, and r are specific rational numbers. Graph the solution set of the inequality and interpret it in the context of the problem. For example: As a salesperson, you are paid $50 per week plus $3 per sale. This week you want your pay to be at least $100. Write an inequality for the number of sales you need to make, and describe the solutions.",
         "domain": "Expressions and Equations",
         "gradelevel": "7",
@@ -2972,7 +2972,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 7: Geometry",
         "details": "Solve problems involving scale drawings of geometric figures, including computing actual lengths and areas from a scale drawing and reproducing a scale drawing at a different scale.",
         "domain": "Geometry",
         "gradelevel": "7",
@@ -2983,7 +2983,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 7: Geometry",
         "details": "Draw (freehand, with ruler and protractor, and with technology) geometric shapes with given conditions. Focus on constructing triangles from three measures of angles or sides, noticing when the conditions determine a unique triangle, more than one triangle, or no triangle.",
         "domain": "Geometry",
         "gradelevel": "7",
@@ -2994,7 +2994,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 7: Geometry",
         "details": "Describe the two-dimensional figures that result from slicing three-dimensional figures, as in plane sections of right rectangular prisms and right rectangular pyramids.",
         "domain": "Geometry",
         "gradelevel": "7",
@@ -3005,7 +3005,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 7: Geometry",
         "details": "Know the formulas for the area and circumference of a circle and use them to solve problems; give an informal derivation of the relationship between the circumference and area of a circle.",
         "domain": "Geometry",
         "gradelevel": "7",
@@ -3016,7 +3016,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 7: Geometry",
         "details": "Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure.",
         "domain": "Geometry",
         "gradelevel": "7",
@@ -3027,7 +3027,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 7: Geometry",
         "details": "Solve real-world and mathematical problems involving area, volume and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms.",
         "domain": "Geometry",
         "gradelevel": "7",
@@ -3038,7 +3038,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Understand that statistics can be used to gain information about a population by examining a sample of the population; generalizations about a population from a sample are valid only if the sample is representative of that population. Understand that random sampling tends to produce representative samples and support valid inferences.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3049,7 +3049,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Use data from a random sample to draw inferences about a population with an unknown characteristic of interest. Generate multiple samples (or simulated samples) of the same size to gauge the variation in estimates or predictions.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3060,7 +3060,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Informally assess the degree of visual overlap of two numerical data distributions with similar variabilities, measuring the difference between the centers by expressing it as a multiple of a measure of variability.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3071,7 +3071,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Use measures of center and measures of variability for numerical data from random samples to draw informal comparative inferences about two populations.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3082,7 +3082,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring. Larger numbers indicate greater likelihood. A probability near 0 indicates an unlikely event, a probability around 1/2 indicates an event that is neither unlikely nor likely, and a probability near 1 indicates a likely event.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3093,7 +3093,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3104,7 +3104,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3115,7 +3115,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3126,7 +3126,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3137,7 +3137,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3148,7 +3148,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Understand that, just as with simple events, the probability of a compound event is the fraction of outcomes in the sample space for which the compound event occurs.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3159,7 +3159,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Represent sample spaces for compound events using methods such as organized lists, tables and tree diagrams. For an event described in everyday language (e.g., \"rolling double sixes\"), identify the outcomes in the sample space which compose the event.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3170,7 +3170,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 7: Statistics and Probability",
         "details": "Design and use a simulation to generate frequencies for compound events.",
         "domain": "Statistics and Probability",
         "gradelevel": "7",
@@ -3181,7 +3181,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 8: The Number System",
         "details": "Know that numbers that are not rational are called irrational. Understand informally that every number has a decimal expansion; for rational numbers show that the decimal expansion repeats eventually, and convert a decimal expansion which repeats eventually into a rational number.",
         "domain": "The Number System",
         "gradelevel": "8",
@@ -3192,7 +3192,7 @@
     },
     {
       "standard": {
-        "category": "The Number System",
+        "category": "Grade 8: The Number System",
         "details": "Use rational approximations of irrational numbers to compare the size of irrational numbers, locate them approximately on a number line diagram, and estimate the value of expressions (e.g., π2).",
         "domain": "The Number System",
         "gradelevel": "8",
@@ -3203,7 +3203,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Know and apply the properties of integer exponents to generate equivalent numerical expressions.",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3214,7 +3214,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Use square root and cube root symbols to represent solutions to equations of the form x² = p and x³ = p, where p is a positive rational number. Evaluate square roots of small perfect squares and cube roots of small perfect cubes. Know that √2 is irrational.",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3225,7 +3225,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Use numbers expressed in the form of a single digit times an integer power of 10 to estimate very large or very small quantities, and to express how many times as much one is than the other.",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3236,7 +3236,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Perform operations with numbers expressed in scientific notation, including problems where both decimal and scientific notation are used. Use scientific notation and choose units of appropriate size for measurements of very large or very small quantities (e.g., use millimeters per year for seafloor spreading). Interpret scientific notation that has been generated by technology",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3247,7 +3247,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Graph proportional relationships, interpreting the unit rate as the slope of the graph. Compare two different proportional relationships represented in different ways.",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3258,7 +3258,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Use similar triangles to explain why the slope m is the same between any two distinct points on a non-vertical line in the coordinate plane; derive the equation y = mx for a line through the origin and the equation y = mx + b for a line intercepting the vertical axis at b.",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3269,7 +3269,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Solve linear equations in one variable.",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3280,7 +3280,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Give examples of linear equations in one variable with one solution, infinitely many solutions, or no solutions. Show which of these possibilities is the case by successively transforming the given equation into simpler forms, until an equivalent equation of the form x = a, a = a, or a = b results (where a and b are different numbers).",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3291,7 +3291,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Solve linear equations with rational number coefficients, including equations whose solutions require expanding expressions using the distributive property and collecting like terms.",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3302,7 +3302,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Analyze and solve pairs of simultaneous linear equations.",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3313,7 +3313,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Understand that solutions to a system of two linear equations in two variables correspond to points of intersection of their graphs, because points of intersection satisfy both equations simultaneously.",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3324,7 +3324,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Solve systems of two linear equations in two variables algebraically, and estimate solutions by graphing the equations. Solve simple cases by inspection.",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3335,7 +3335,7 @@
     },
     {
       "standard": {
-        "category": "Expressions and Equations",
+        "category": "Grade 8: Expressions and Equations",
         "details": "Solve real-world and mathematical problems leading to two linear equations in two variables.",
         "domain": "Expressions and Equations",
         "gradelevel": "8",
@@ -3346,7 +3346,7 @@
     },
     {
       "standard": {
-        "category": "Functions",
+        "category": "Grade 8: Functions",
         "details": "Understand that a function is a rule that assigns to each input exactly one output. The graph of a function is the set of ordered pairs consisting of an input and the corresponding output.",
         "domain": "Functions",
         "gradelevel": "8",
@@ -3357,7 +3357,7 @@
     },
     {
       "standard": {
-        "category": "Functions",
+        "category": "Grade 8: Functions",
         "details": "Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions).",
         "domain": "Functions",
         "gradelevel": "8",
@@ -3368,7 +3368,7 @@
     },
     {
       "standard": {
-        "category": "Functions",
+        "category": "Grade 8: Functions",
         "details": "Interpret the equation y = mx + b as defining a linear function, whose graph is a straight line; give examples of functions that are not linear.",
         "domain": "Functions",
         "gradelevel": "8",
@@ -3379,7 +3379,7 @@
     },
     {
       "standard": {
-        "category": "Functions",
+        "category": "Grade 8: Functions",
         "details": "Construct a function to model a linear relationship between two quantities. Determine the rate of change  and initial value of the function from a description of a relationship or from two (x, y) values, including reading these from a table or from a graph. Interpret the rate of change and initial value of a linear function in terms of the situation it models, and in terms of its graph or a table of values.",
         "domain": "Functions",
         "gradelevel": "8",
@@ -3390,7 +3390,7 @@
     },
     {
       "standard": {
-        "category": "Functions",
+        "category": "Grade 8: Functions",
         "details": "Describe qualitatively the functional relationship between two quantities by analyzing a graph (e.g., where the function is increasing or decreasing, linear or nonlinear). Sketch a graph that exhibits the qualitative features of a function that has been described verbally.",
         "domain": "Functions",
         "gradelevel": "8",
@@ -3401,7 +3401,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Verify experimentally the properties of rotations, reflections, and translations:",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3412,7 +3412,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Lines are taken to lines, and line segments to line segments of the same length.",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3423,7 +3423,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Angles are taken to angles of the same measure.",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3434,7 +3434,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Parallel lines are taken to parallel lines.",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3445,7 +3445,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Understand that a two-dimensional figure is congruent to another if the second can be obtained from the first by a sequence of rotations, reflections, and translations; given two congruent figures, describe a sequence that exhibits the congruence between them.",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3456,7 +3456,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Describe the effect of dilations, translations, rotations, and reflections on two-dimensional figures using coordinates.",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3467,7 +3467,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Understand that a two-dimensional figure is similar to another if the second can be obtained from the first by a sequence of rotations, reflections, translations, and dilations; given two similar two-dimensional figures, describe a sequence that exhibits the similarity between them.",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3478,7 +3478,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Use informal arguments to establish facts about the angle sum and exterior angle of triangles, about the angles created when parallel lines are cut by a transversal, and the angle-angle criterion for similarity of triangles.",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3489,7 +3489,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Explain a proof of the Pythagorean Theorem and its converse.",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3500,7 +3500,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Apply the Pythagorean Theorem to determine unknown side lengths in right triangles in real-world and mathematical problems in two and three dimensions.",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3511,7 +3511,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Apply the Pythagorean Theorem to find the distance between two points in a coordinate system.",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3522,7 +3522,7 @@
     },
     {
       "standard": {
-        "category": "Geometry",
+        "category": "Grade 8: Geometry",
         "details": "Know the formulas for the volumes of cones, cylinders, and spheres and use them to solve real-world and mathematical problems.",
         "domain": "Geometry",
         "gradelevel": "8",
@@ -3533,7 +3533,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 8: Statistics and Probability",
         "details": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
         "domain": "Statistics and Probability",
         "gradelevel": "8",
@@ -3544,7 +3544,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 8: Statistics and Probability",
         "details": "Know that straight lines are widely used to model relationships between two quantitative variables. For scatter plots that suggest a linear association, informally fit a straight line, and informally assess the model fit by judging the closeness of the data points to the line.",
         "domain": "Statistics and Probability",
         "gradelevel": "8",
@@ -3555,7 +3555,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 8: Statistics and Probability",
         "details": "Use the equation of a linear model to solve problems in the context of bivariate measurement data, interpreting the slope and intercept.",
         "domain": "Statistics and Probability",
         "gradelevel": "8",
@@ -3566,7 +3566,7 @@
     },
     {
       "standard": {
-        "category": "Statistics and Probability",
+        "category": "Grade 8: Statistics and Probability",
         "details": "Understand that patterns of association can also be seen in bivariate categorical data by displaying frequencies and relative frequencies in a two-way table. Construct and interpret a two-way table summarizing data on two categorical variables collected from the same subjects. Use relative frequencies calculated for rows or columns to describe possible association between the two variables.",
         "domain": "Statistics and Probability",
         "gradelevel": "8",
