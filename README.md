@@ -72,7 +72,7 @@
     + From shell: `$ sqlite3 filename.sqlite`
     + In `sqlite3`:
       + Run the script: `sqlite> .read sqlite-ccssmath.sql`
-      + View tables in: `sqlite> .tables`
+      + View the tables: `sqlite> .tables`
 
 
 # Source Material
