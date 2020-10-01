@@ -9,7 +9,16 @@
 
 > **NOTE:** Looking for [Common Core English Language Arts standards](https://github.com/pvtuhs/ccssela)?
 
-## Data Dictionary
+# Table of Contents
+  + [Data Dictionary](#data-dictionary)
+  + [Formats](#formats)
+  + [CCMS Stats](#common-core-math-standards-statistics)
+  + [Source Material](#source-material)
+  + [References](#references)
+  + [License](#license)
+
+
+# Data Dictionary
 
 > **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
 
@@ -63,7 +72,7 @@
       + View tables in: `sqlite> .tables`
 
 
-## Source Material
+# Source Material
   + Commmon Core Math Standards are sourced from the official web site:
     + http://www.corestandards.org/Math/
   + For accuracy, the source material is extracted using the [**CCSS Math Standards Extraction Tool (SET)**][set].
