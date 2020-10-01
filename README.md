@@ -4,6 +4,7 @@
   + Math symbols use Unicode superscripts and subscripts (without HTML).
   + Formats include text files and workbooks (e.g., spreadsheets).
   + Formats now include JSON files.
+  + Formats now include SQL files.
   + Use keyword `ccssmath` to search for Math standards with the [**CCSS MATHREF Chrome extension**][ref].
   + **FOR DEVELOPERS:** Source material extracted with the [**CCSS Math Standards Extraction Tool (SET)**][set].
 
