@@ -46,6 +46,14 @@
     + JavaScript Object Notation
     + Delivers math standards as a structured data object.
     + Useful for developers.
+    
+## SQL files
+  + `sqlite-ccssmath.sql`
+    + Use with [SQLite](https://www.sqlite.org/index.html)
+    + From shell: `$ sqlite3 filename.sqlite`
+    + In sqlite3: `sqlite> .read sqlite-ccssmath.sql`
+    + Then, in sqlite3: `sqlite> .tables`
+
 
 ## Source Material
   + Commmon Core Math Standards are sourced from the official web site:
