@@ -61,16 +61,16 @@
 ## JSON files
   + `ccssmath.json`
     + JavaScript Object Notation
-    + Delivers math standards as a structured data object.
-    + Useful for developers.
+    + Delivers math standards as a structured data object
+    + Useful for developers
 
 ## SQL files
   + `sqlite-ccssmath.sql`
     + Use with [SQLite.](https://www.sqlite.org/index.html)
-    + Useful for database developers.
-    + Useful for complex data analysis.
-    + From shell: `$ sqlite3 filename.sqlite`
-    + In `sqlite3`:
+    + Useful for database developers
+    + Useful for complex data analysis
+    + From the shell create a new database file: `$ sqlite3 filename.sqlite`
+    + Within `sqlite3`:
       + Run the script: `sqlite> .read sqlite-ccssmath.sql`
       + View the tables: `sqlite> .tables`
 
