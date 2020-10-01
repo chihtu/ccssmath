@@ -6,7 +6,6 @@
   + Formats now include JSON files.
   + Formats now include SQL files.
   + Use keyword `ccssmath` to search for Math standards with the [**CCSS MATHREF Chrome extension**][ref].
-  + **FOR DEVELOPERS:** Source material extracted with the [**CCSS Math Standards Extraction Tool (SET)**][set].
 
 > **NOTE:** Looking for [Common Core English Language Arts standards](https://github.com/pvtuhs/ccssela)?
 
