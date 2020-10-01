@@ -67,6 +67,8 @@
 ## SQL files
   + `sqlite-ccssmath.sql`
     + Use with [SQLite](https://www.sqlite.org/index.html)
+    + Useful for database developers.
+    + Useful for complex data analysis.
     + From shell: `$ sqlite3 filename.sqlite`
     + In `sqlite3`:
       + Run the script: `sqlite> .read sqlite-ccssmath.sql`
