@@ -131,6 +131,13 @@
 |   |  |
 |  **TOTAL** | **517** |
 
+
+# References
+
++ http://www.corestandards.org/Math/
++ http://www.corestandards.org/wp-content/uploads/Math_Standards.pdf
+
+
 # License
 
 Common Core Math Standards are provided under Public License.
