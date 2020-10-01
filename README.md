@@ -26,11 +26,14 @@
 
 ## Text files
   + `cccssmath.tsv` - entire file is searchable on GitHub
+    + Tab-separated values (TSV) text file
+    + `cccssmath.txt` - backwards-compatible equivalent of `cccssmath.tsv`
   + `cccssmath-withid.tsv` - adds `ID` column to `cccssmath.tsv`
     + Useful for cross-referncing between standards
     + Useful for differentiating between very similar standards
-    + Useful for keeping track of all 509 math standards (like on flashcards)
+    + Useful for keeping track of all 517 math standards (like on flashcards)
     + Sorting the numbers is easier than "K-12 sorting" the keys
+    + `cccssmath-withid.txt` - backwards-compatible equivalent of `cccssmath-withid.tsv`    
 
 ## Workbooks
   + `cccssmath.xlsx` - Microsoft Excel spreadsheet
@@ -51,8 +54,9 @@
   + `sqlite-ccssmath.sql`
     + Use with [SQLite](https://www.sqlite.org/index.html)
     + From shell: `$ sqlite3 filename.sqlite`
-    + In sqlite3: `sqlite> .read sqlite-ccssmath.sql`
-    + Then, in sqlite3: `sqlite> .tables`
+    + In `sqlite3`:
+      + Run the script: `sqlite> .read sqlite-ccssmath.sql`
+      + View tables in: `sqlite> .tables`
 
 
 ## Source Material
