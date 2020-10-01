@@ -1,5 +1,6 @@
  # sql
  
- + `sqlite`: https://www.sqlite.org/index.html
+ + `sqlite-ccssmath.sql`: 
+   + Execute SQL file in SQLite: https://www.sqlite.org/index.html
  + `mariadb`: https://mariadb.org
  
