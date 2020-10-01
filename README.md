@@ -3,7 +3,8 @@
   + Standards include math practices and content area standards.
   + Formats include text files and workbooks (e.g., spreadsheets).
   + Formats now include JSON files.
-  + Use keyword `ccssmath` to search for ELA standards with the [**CCSS MATHREF Chrome extension**][ref].  
+  + Use keyword `ccssmath` to search for ELA standards with the [**CCSS MATHREF Chrome extension**][ref].
+  + **FOR DEVELOPERS:** Source material extracted with the [CCSS Math Standards Extraction Tool (SET)][set].
 
 > **NOTE:** Looking for [Common Core English Language Arts standards](https://github.com/pvtuhs/ccssela)?
 
