@@ -28,7 +28,7 @@
   + `cccssmath.tsv` - entire file is searchable on GitHub
     + Tab-separated values (TSV) text file
     + `cccssmath.txt` - backwards-compatible equivalent of `cccssmath.tsv`
-  + `cccssmath-withid.tsv` - adds `ID` column to `cccssmath.tsv`
+  + `cccssmath-withid.tsv` - adds `ID` column to each record in `cccssmath.tsv`
     + Useful for cross-referncing between standards
     + Useful for differentiating between very similar standards
     + Useful for keeping track of all 517 math standards (like on flashcards)
