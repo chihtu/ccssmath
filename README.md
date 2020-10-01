@@ -1,6 +1,7 @@
 # Common Core Math Standards in many formats
   + There are 517 Math standards.
   + Standards include math practices and content area standards.
+  + Math symbols use Unicode superscripts and subscripts (without HTML).
   + Formats include text files and workbooks (e.g., spreadsheets).
   + Formats now include JSON files.
   + Use keyword `ccssmath` to search for ELA standards with the [**CCSS MATHREF Chrome extension**][ref].
