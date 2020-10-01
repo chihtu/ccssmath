@@ -25,10 +25,14 @@
 # Formats
 
 ## Text files
-  + `cccssmath.tsv` - entire file is searchable on GitHub
+  + `cccssmath.tsv`
     + Tab-separated values (TSV) text file
+    + This file is [searchable on GitHub](https://github.com/pvtuhs/ccssmath/blob/master/text/ccssmath.tsv)
+    + Imports into spreadsheets or databases    
     + `cccssmath.txt` - backwards-compatible equivalent of `cccssmath.tsv`
-  + `cccssmath-withid.tsv` - adds `ID` column to each record in `cccssmath.tsv`
+  + `cccssmath-withid.tsv`
+    + Adds ID column to each record in `cccssmath.tsv` as a primary key
+    + This file is [searchable on GitHub](https://github.com/pvtuhs/ccssmath/blob/master/text/ccssmath-withid.tsv)
     + Useful for cross-referncing between standards
     + Useful for differentiating between very similar standards
     + Useful for keeping track of all 517 math standards (like on flashcards)
