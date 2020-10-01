@@ -69,10 +69,21 @@
     + Use with [SQLite.](https://www.sqlite.org/index.html)
     + Useful for database developers
     + Useful for complex data analysis
-    + From the shell create a new database file: `$ sqlite3 filename.sqlite`
+    + From the shell, create a new database file: `$ sqlite3 filename.sqlite`
     + Within `sqlite3`:
-      + Run the script: `sqlite> .read sqlite-ccssmath.sql`
+      + Run the command file: `sqlite> .read sqlite-ccssmath.sql`
       + View the tables: `sqlite> .tables`
+
+  + `mariadb-ccssmath.sql`
+    + Use with [MariaDB.](https://mariadb.org)
+    + Useful for database developers working with more complex schemas
+    + Useful for complex data analysis
+    + From the shell, connect to the database: `$ mariadb`
+    + Within `mariadb`:
+      + Choose a database: `MariaDB [(none)]> use foo;`    
+      + Run the command file: `MariaDB [foo]> source /path/to/mariadb-ccssmath.sql;`
+      + View the tables: `MariaDB [foo]> show tables;`
+
 
 
 # Source Material
