@@ -49,11 +49,13 @@
     + Sorting the numbers is easier than "K-12 sorting" the keys
 
 ## Workbooks
-  + `ccssmath.xlsx` - Microsoft Excel spreadsheet
+  + `ccssmath.xlsx`
+      + Microsoft Excel spreadsheet
       + Use with [Google Sheets](https://www.google.com/sheets/about/).
       + Use with [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel).
       + Use with [Zoho Sheet](https://www.zoho.com/sheet/).
-  + `ccssmath.ods` - OpenDocument spreasheet
+  + `ccssmath.ods` 
+    + OpenDocument spreasheet
     + Use with [LibreOffice](https://www.libreoffice.org).
     + Use with [Apache OpenOffice](https://www.openoffice.org).
 
