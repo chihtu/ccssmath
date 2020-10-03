@@ -48,7 +48,7 @@
     + Useful for keeping track of all 517 math standards (like on flashcards)
     + Sorting the numbers is easier than "K-12 sorting" the keys
 
-## [Workbooks]((https://github.com/pvtuhs/ccssmath/blob/master/workbooks)
+## [Workbooks](https://github.com/pvtuhs/ccssmath/blob/master/workbooks)
   + `ccssmath.xlsx`
       + Microsoft Excel spreadsheet
       + Use with [Google Sheets](https://www.google.com/sheets/about/).
@@ -59,7 +59,7 @@
     + Use with [LibreOffice](https://www.libreoffice.org).
     + Use with [Apache OpenOffice](https://www.openoffice.org).
 
-## [JSON files]((https://github.com/pvtuhs/ccssmath/blob/master/json)
+## [JSON files](https://github.com/pvtuhs/ccssmath/blob/master/json)
   + `ccssmath.json`
     + JavaScript Object Notation
     + Delivers math standards as a structured data object
@@ -67,7 +67,7 @@
   + `ccssmath.min.json`
     + Minified JSON string
 
-## [SQL files]((https://github.com/pvtuhs/ccssmath/blob/master/sql)
+## [SQL files](https://github.com/pvtuhs/ccssmath/blob/master/sql)
   + `sqlite-ccssmath.sql`
     + Use with [SQLite.](https://www.sqlite.org/index.html)
     + Useful for database developers
