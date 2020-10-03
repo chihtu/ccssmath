@@ -8,7 +8,6 @@
   + Formats now include JSON files.
   + Formats now include SQL files.
   + Use keyword `ccssmath` to search for Math standards with the [**CCSS MATHREF Chrome extension**][ref].
-  + **FOR DEVELOPERS:** Source material extracted with the [**CCSS Math Standards Extraction Tool (SET)**][set].
 
 > **NOTE:** Looking for [Common Core English Language Arts standards](https://github.com/pvtuhs/ccssela)?
 
@@ -29,7 +28,7 @@
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  ***datatype*** | `Integer` | `String` | `String` | `String` | `String` | `String` | `String` | `String` |
 |  ***model type*** | `Integer` | `String` | `Enum` | `String` | `Enum` | `Enum` | `Enum` | `String` |
-|  ***description*** | unique number for each of the 509 math standards | CCSS.MATH.*  | standard or substandard | grade level and/or topics | section of the standards with similar characteristics | skills or topics based on KEY | grade level or grade level grouping | actual standard, describing the item to be learned |
+|  ***description*** | unique number for each of the data set items | CCSS.MATH.*  | standard, substandard, or cluster | grade level and/or topics | section of the standards with similar characteristics | skills or topics based on KEY | grade level or grade level grouping | actual standard, describing the item to be learned |
 
 
 > **NOTE:** The words `KEY` and `DETAILS` are used for clarity. `KEY` always refers to the standard notation with grade level, domains, and standards information. `DETAILS` always refers to the standard in the form of words, phrases, or sentences.
@@ -61,19 +60,30 @@
 ## JSON files
   + `ccssmath.json`
     + JavaScript Object Notation
-    + Delivers math standards as a structured data object.
-    + Useful for developers.
+    + Delivers math standards as a structured data object
+    + Useful for developers
+  + `ccssmath.min.json`
+    + Minified JSON string
 
 ## SQL files
   + `sqlite-ccssmath.sql`
     + Use with [SQLite.](https://www.sqlite.org/index.html)
-    + Useful for database developers.
-    + Useful for complex data analysis.
-    + From shell: `$ sqlite3 filename.sqlite`
-    + In `sqlite3`:
-      + Run the script: `sqlite> .read sqlite-ccssmath.sql`
+    + Useful for database developers
+    + Useful for complex data analysis
+    + From the shell, create a new database file: `$ sqlite3 filename.sqlite`
+    + Within `sqlite3`:
+      + Run the command file: `sqlite> .read sqlite-ccssmath.sql`
       + View the tables: `sqlite> .tables`
 
+  + `mariadb-ccssmath.sql`
+    + Use with [MariaDB.](https://mariadb.org)
+    + Useful for database developers working with more complex schemas
+    + Useful for complex data analysis
+    + From the shell, connect to the database: `$ mariadb`
+    + Within `mariadb`:
+      + Choose a database: `MariaDB [(none)]> use foo;`
+      + Run the command file: `MariaDB [foo]> source /path/to/mariadb-ccssmath.sql;`
+      + View the tables: `MariaDB [foo]> show tables;`
 
 # Source Material
   + Commmon Core Math Standards are sourced from the official web site:
@@ -95,6 +105,10 @@
 |  substandard | 124 |
 |   |  |
 |  **TOTAL** | **517** |
+
+## Clusters
+
++ There are 147 clusters (groups of standards and substandards).
 
 ## Standards Grade Level
 
