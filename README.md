@@ -1,6 +1,6 @@
 # Common Core Math Standards in many formats
   + There are 664 items.
-  + There are 517 Math standards.
+  + There are 517 Math standards (including substandards).
   + There are 147 clusters (summaries for groups of standards).
   + Standards data set includes math practices, content area standards, and descriptive clusters.
   + Math symbols use Unicode superscripts and subscripts (without HTML).
