@@ -6,6 +6,7 @@
   + Formats now include JSON files.
   + Formats now include SQL files.
   + Use keyword `ccssmath` to search for Math standards with the [**CCSS MATHREF Chrome extension**][ref].
+  + **FOR DEVELOPERS:** Source material extracted with the [**CCSS Math Standards Extraction Tool (SET)**][set].
 
 > **NOTE:** Looking for [Common Core English Language Arts standards](https://github.com/pvtuhs/ccssela)?
 
@@ -60,29 +61,18 @@
 ## JSON files
   + `ccssmath.json`
     + JavaScript Object Notation
-    + Delivers math standards as a structured data object
-    + Useful for developers
+    + Delivers math standards as a structured data object.
+    + Useful for developers.
 
 ## SQL files
   + `sqlite-ccssmath.sql`
     + Use with [SQLite.](https://www.sqlite.org/index.html)
-    + Useful for database developers
-    + Useful for complex data analysis
-    + From the shell, create a new database file: `$ sqlite3 filename.sqlite`
-    + Within `sqlite3`:
-      + Run the command file: `sqlite> .read sqlite-ccssmath.sql`
+    + Useful for database developers.
+    + Useful for complex data analysis.
+    + From shell: `$ sqlite3 filename.sqlite`
+    + In `sqlite3`:
+      + Run the script: `sqlite> .read sqlite-ccssmath.sql`
       + View the tables: `sqlite> .tables`
-
-  + `mariadb-ccssmath.sql`
-    + Use with [MariaDB.](https://mariadb.org)
-    + Useful for database developers working with more complex schemas
-    + Useful for complex data analysis
-    + From the shell, connect to the database: `$ mariadb`
-    + Within `mariadb`:
-      + Choose a database: `MariaDB [(none)]> use foo;`    
-      + Run the command file: `MariaDB [foo]> source /path/to/mariadb-ccssmath.sql;`
-      + View the tables: `MariaDB [foo]> show tables;`
-
 
 
 # Source Material
