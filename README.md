@@ -1,6 +1,8 @@
 # Common Core Math Standards in many formats
+  + There are 664 items.
   + There are 517 Math standards.
-  + Standards include math practices and content area standards.
+  + There are 147 clusters (summaries for groups of standards).
+  + Standards data set includes math practices, content area standards, and descriptive clusters.
   + Math symbols use Unicode superscripts and subscripts (without HTML).
   + Formats include text files and workbooks (e.g., spreadsheets).
   + Formats now include JSON files.
@@ -23,7 +25,7 @@
 
 > **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
 
-|   | ID | KEY | TYPE | CATEGORY | SECTION | DOMAIN | GRADELEVEL | DETAILS |
+|   | ITEMID | KEY | TYPE | CATEGORY | SECTION | DOMAIN | GRADELEVEL | DETAILS |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  ***datatype*** | `Integer` | `String` | `String` | `String` | `String` | `String` | `String` | `String` |
 |  ***model type*** | `Integer` | `String` | `Enum` | `String` | `Enum` | `Enum` | `Enum` | `String` |
@@ -39,15 +41,13 @@
     + Tab-separated values (TSV) text file
     + This file is [searchable on GitHub](https://github.com/pvtuhs/ccssmath/blob/master/text/ccssmath.tsv)
     + Imports into spreadsheets or databases
-    + `ccssmath.txt` - backwards-compatible equivalent of `ccssmath.tsv`
-  + `ccssmath-withid.tsv`
+  + `ccssmath-with-item-id.tsv`
     + Adds ID column to each record in `ccssmath.tsv` as a primary key
-    + This file is [searchable on GitHub](https://github.com/pvtuhs/ccssmath/blob/master/text/ccssmath-withid.tsv)
+    + This file is [searchable on GitHub](https://github.com/pvtuhs/ccssmath/blob/master/text/ccssmath-with-item-id.tsv)
     + Useful for cross-referncing between standards
     + Useful for differentiating between very similar standards
     + Useful for keeping track of all 517 math standards (like on flashcards)
     + Sorting the numbers is easier than "K-12 sorting" the keys
-    + `ccssmath-withid.txt` - backwards-compatible equivalent of `ccssmath-withid.tsv`
 
 ## Workbooks
   + `ccssmath.xlsx` - Microsoft Excel spreadsheet
