@@ -192,6 +192,24 @@
 |   |  |
 |  **TOTAL** | **517** |
 
+## Domains By Grade Level Table
+
+> **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
+
+|  **Domain** | **Kindergarten** | **Grade 1** | **Grade 2** | **Grade 3** | **Grade 4** | **Grade 5** | **Grade 6** | **Grade 7** | **Grade 8** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  **Counting <br/>and Cardinality** | 10 |  |  |  |  |  |  |  |  |
+|  **Operations and <br/>Algebraic Thinking** | 5 | 8 | 4 | 9 | 5 | 3 |  |  |  |
+|  **Number and Operations <br/>in Base 10** | 1 | 9 | 11 | 3 | 6 | 9 |  |  |  |
+|  **Measurement and Data** | 3 | 4 | 10 | 14 | 9 | 10 |  |  |  |
+|  **Geometry** | 6 | 3 | 3 | 2 | 3 | 4 | 4 | 8 | 15 |
+|  **Number and <br/>Operations – Fractions** |  |  |  | 9 | 17 | 16 |  |  |  |
+|  **Ratio and Proportional<br/>Relationships** |  |  |  |  |  |  | 7 | 8 |  |
+|  **The Number System** |  |  |  |  |  |  | 15 | 12 | 3 |
+|  **Expressions <br/>and Equations** |  |  |  |  |  |  | 15 | 8 | 13 |
+|  **Statistics <br/>and Probability** |  |  |  |  |  |  | 11 | 16 | 4 |
+|  **Functions** |  |  |  |  |  |  |  |  | 5 |
+
 
 # References
 
