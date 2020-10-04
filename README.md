@@ -196,7 +196,7 @@
 
 > **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
 
-|  **Domain** | **Kindergarten** | **Grade 1** | **Grade 2** | **Grade 3** | **Grade 4** | **Grade 5** | **Grade 6** | **Grade 7** | **Grade 8** |
+|  **Domain** | **Kindergarten** | **Gr. 1** | **Gr. 2** | **Gr. 3** | **Gr. 4** | **Gr. 7** | **Gr. 6** | **Gr. 7** | **Gr. 8** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  **Counting <br/>and Cardinality** | 10 |  |  |  |  |  |  |  |  |
 |  **Operations and <br/>Algebraic Thinking** | 5 | 8 | 4 | 9 | 5 | 3 |  |  |  |
