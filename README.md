@@ -108,7 +108,7 @@
 |   |  |
 |  **TOTAL** | **517** |
 
-## Clusters
+## Cluster Counts
 
 + There are 147 clusters (groups of standards and substandards).
 
@@ -129,7 +129,7 @@
 |   |  |
 |  **TOTAL** | **147** |
 
-## Standards Grade Level
+## Standards Grade Level Counts
 
 > **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
 
