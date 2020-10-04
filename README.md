@@ -192,7 +192,7 @@
 |   |  |
 |  **TOTAL** | **517** |
 
-## Domains By Grade Level Table
+## Domain Counts By Grade Level in a Table
 
 > **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
 
