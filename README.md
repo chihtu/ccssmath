@@ -112,6 +112,23 @@
 
 + There are 147 clusters (groups of standards and substandards).
 
+> **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
+
+|  GRADE LEVEL | COUNT |
+| :--- | :---: |
+|  Kindergarten | 9 |
+|  Grade 1 | 11 |
+|  Grade 2 | 10 |
+|  Grade 3 | 11 |
+|  Grade 4 | 12 |
+|  Grade 5 | 11 |
+|  Grade 6 | 10 |
+|  Grade 7 | 9 |
+|  Grade 8 | 10 |
+|  High School | 54 |
+|   |  |
+|  **TOTAL** | **147** |
+
 ## Standards Grade Level
 
 > **NOTE:** Markdown table made with [MarkdownTableMaker for Google Sheets][mtm]
